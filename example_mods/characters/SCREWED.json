@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				134,
+				-490
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				141,
+				-505
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-99,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				442,
+				-503
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				490,
+				-653
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				-487
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "altright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				-80
+			],
+			"anim": "singDOWN-alt",
+			"fps": 20,
+			"name": "altdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1040,
+				-100
+			],
+			"anim": "singLEFT-alt",
+			"fps": 20,
+			"name": "altleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scwered",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "crubmscrewed",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		-310,
+		510
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

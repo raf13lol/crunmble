@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Magenta_HD.png"><SubTexture name="Magenta_HD idle0000" x="2535" y="1374" width="652" height="456" frameX="-463" frameY="-570" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD idle0001" x="872" y="2918" width="837" height="306" frameX="-352" frameY="-721" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD idle0002" x="0" y="2918" width="872" height="321" frameX="-390" frameY="-746" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD idle0003" x="2535" y="1830" width="693" height="456" frameX="-430" frameY="-673" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD idle0004" x="1340" y="1436" width="638" height="499" frameX="-486" frameY="-528" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD idle0005" x="709" y="801" width="594" height="593" frameX="-537" frameY="-434" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD left0000" x="0" y="2002" width="923" height="460" frameX="-87" frameY="-569" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD left0001" x="923" y="2002" width="968" height="458" frameX="-34" frameY="-569" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD left0002" x="2535" y="0" width="814" height="458" frameX="-171" frameY="-569" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD left0003" x="2535" y="458" width="628" height="458" frameX="-342" frameY="-569" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD down0000" x="2574" y="2462" width="687" height="385" frameX="-343" frameY="-789" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD down0001" x="1304" y="2462" width="659" height="404" frameX="-366" frameY="-716" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD down0002" x="1963" y="2462" width="611" height="386" frameX="-409" frameY="-671" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD down0003" x="1978" y="1436" width="551" height="396" frameX="-463" frameY="-630" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD up0000" x="1845" y="586" width="612" height="572" frameX="-500" frameY="-455" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD up0001" x="511" y="0" width="575" height="673" frameX="-521" frameY="-354" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD up0002" x="0" y="0" width="511" height="801" frameX="-553" frameY="-226" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD up0003" x="694" y="1436" width="646" height="534" frameX="-462" frameY="-493" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD right0000" x="1845" y="0" width="690" height="586" frameX="-546" frameY="-441" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD right0001" x="0" y="801" width="709" height="635" frameX="-587" frameY="-393" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD right0002" x="1086" y="0" width="759" height="638" frameX="-615" frameY="-390" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD right0003" x="0" y="1436" width="694" height="566" frameX="-499" frameY="-462" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD ya0000" x="0" y="2462" width="652" height="456" frameX="-463" frameY="-570" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD ya0001" x="2535" y="916" width="642" height="458" frameX="-462" frameY="-569" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD ya0002" x="652" y="2462" width="652" height="456" frameX="-463" frameY="-570" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Magenta_HD ya0003" x="1891" y="2002" width="641" height="456" frameX="-463" frameY="-570" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Trip.png"><SubTexture name="Trip Idle0000" x="82" y="0" width="83" height="152" frameX="-16" frameY="-10" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip Idle0001" x="165" y="0" width="83" height="150" frameX="-12" frameY="-12" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip Idle0002" x="0" y="0" width="82" height="155" frameX="-14" frameY="-7" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip left0000" x="165" y="0" width="83" height="150" frameX="-12" frameY="-12" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip left0001" x="0" y="0" width="82" height="155" frameX="-14" frameY="-7" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip left0002" x="82" y="0" width="83" height="152" frameX="-16" frameY="-10" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip down0000" x="165" y="0" width="83" height="150" frameX="-12" frameY="-12" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip down0001" x="0" y="0" width="82" height="155" frameX="-14" frameY="-7" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip down0002" x="82" y="0" width="83" height="152" frameX="-16" frameY="-10" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip up0000" x="165" y="0" width="83" height="150" frameX="-12" frameY="-12" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip up0001" x="0" y="0" width="82" height="155" frameX="-14" frameY="-7" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip up0002" x="82" y="0" width="83" height="152" frameX="-16" frameY="-10" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip right0000" x="165" y="0" width="83" height="150" frameX="-12" frameY="-12" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip right0001" x="0" y="0" width="82" height="155" frameX="-14" frameY="-7" frameWidth="108" frameHeight="166" />
+<SubTexture name="Trip right0002" x="82" y="0" width="83" height="152" frameX="-16" frameY="-10" frameWidth="108" frameHeight="166" />
+</TextureAtlas>

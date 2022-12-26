@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				76,
+				91
+			],
+			"anim": "idle",
+			"fps": 17,
+			"name": "Scrum_bly idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				92
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "Scrum_bly down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				90
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Scrum_bly up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				91
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scrum_bly right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				92
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "Scrum_bly left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scrum_bly",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "scrumbly",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		-10,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

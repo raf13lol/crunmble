@@ -1,0 +1,59 @@
+{
+	"storyName": "exoperic couption",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "exo",
+	"weekBefore": "weekcrumb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Caliber",
+			"exoweel",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Sane",
+			"mont",
+			[
+				42,
+				42,
+				42
+			]
+		],
+		[
+			"Vestige",
+			"exocrumb",
+			[
+				181,
+				230,
+				29
+			]
+		],
+		[
+			"Juiced",
+			"grape",
+			[
+				163,
+				73,
+				164
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Exosphere Week"
+}

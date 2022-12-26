@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "ay yo it’s a blue hair boy",
+			"boxState": "normal",
+			"portrait": "grape_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smug",
+			"text": "you a twitter user wit that haircut",
+			"boxState": "normal",
+			"portrait": "grape_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "*disgruntled noises*",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "bruh",
+			"text": "oh wait, you’re that kid that was complaining to mont about your friend being possessed?",
+			"boxState": "normal",
+			"portrait": "grape_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smug",
+			"text": "bruh it’s a joke, learn to laugh idiot",
+			"boxState": "normal",
+			"portrait": "grape_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Again, slavery",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "bruh",
+			"text": "L+Ratio",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.0399999999999999,
+			"portrait": "grape_dialogue"
+		},
+		{
+			"expression": "pissed",
+			"text": "I’m gonna turn you into juice you insufferable redditor",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "grape_dialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Ima give that a wholesome award"
+		},
+		{
+			"sound": "",
+			"speed": 0.14,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I swear to god."
+		}
+	]
+}

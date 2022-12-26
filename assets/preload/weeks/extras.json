@@ -1,0 +1,176 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Goober Old",
+			"gooblin",
+			[
+				255,
+				242,
+				0
+			]
+		],
+		[
+			"Goober",
+			"gooblin",
+			[
+				255,
+				242,
+				0
+			]
+		],
+		[
+			"Goober Twoober",
+			"gooblin",
+			[
+				255,
+				242,
+				0
+			]
+		],
+		[
+			"Goober Minusoober",
+			"bunkly",
+			[
+				255,
+				173,
+				213
+			]
+		],
+		[
+			"Warcrimes",
+			"mozzarella",
+			[
+				175,
+				0,
+				0
+			]
+		],
+		[
+			"Multicolor",
+			"magenta",
+			[
+				195,
+				73,
+				253
+			]
+		],
+		[
+			"Fondue",
+			"cheese",
+			[
+				0,
+				193,
+				53
+			]
+		],
+		[
+			"Mauve",
+			"scrumbly",
+			[
+				246,
+				73,
+				253
+			]
+		],
+		[
+			"Cheddarjack",
+			"mozz",
+			[
+				106,
+				0,
+				0
+			]
+		],
+		[
+			"Baited",
+			"chrumb",
+			[
+				181,
+				230,
+				29
+			]
+		],
+		[
+			"Manslaughter",
+			"crumbkill",
+			[
+				255,
+				33,
+				73
+			]
+		],
+		[
+			"Ballin",
+			"ueueueue",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"Yippee",
+			"crumtbh",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Terror",
+			"gangong",
+			[
+				185,
+				122,
+				87
+			]
+		],
+		[
+			"Schizophrenia",
+			"minibeef",
+			[
+				0,
+				162,
+				232
+			]
+		],
+		[
+			"Green Eggs and Yams",
+			"yams",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Boof",
+			"high",
+			[
+				186,
+				186,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

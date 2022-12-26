@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-162,
+				-314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-73,
+				-318
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-118,
+				-322
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-96,
+				-310
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-97,
+				-310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-185,
+				-298
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss_right"
+		},
+		{
+			"offsets": [
+				-99,
+				-302
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss_up"
+		},
+		{
+			"offsets": [
+				-141,
+				-307
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss_left"
+		},
+		{
+			"offsets": [
+				-120,
+				-290
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/champdupbf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Bofend",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		18,
+		255
+	],
+	"camera_position": [
+		210,
+		350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

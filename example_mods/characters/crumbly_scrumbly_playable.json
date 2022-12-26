@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				135,
+				210
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "crumb idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				210
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "crumb left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				210
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "crumb down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				220
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "crumb up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				210
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "crumb right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crumb",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "crumb",
+	"flip_x": true,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		350,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

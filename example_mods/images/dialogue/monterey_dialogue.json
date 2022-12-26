@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-80,
+				90
+			],
+			"idle_offsets": [
+				-80,
+				90
+			],
+			"loop_name": "Monterey_Dialogue speak",
+			"idle_name": "Monterey_Dialogue speak0000"
+		},
+		{
+			"loop_name": "Monterey_Dialogue happy",
+			"idle_offsets": [
+				-80,
+				90
+			],
+			"idle_name": "Monterey_Dialogue happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				-80,
+				90
+			]
+		}
+	],
+	"image": "Monterey_Dialogue"
+}

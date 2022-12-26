@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				36888.8888888889,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Bunkly_shredding"
+					],
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				69803.1746031746,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Bunkly_Wrunkly"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				107817.063492063,
+				[
+					[
+						"Play Animation",
+						"shocked",
+						"gf"
+					]
+				]
+			],
+			[
+				108098.313492063,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ripbigguy"
+					]
+				]
+			]
+		]
+	}
+}

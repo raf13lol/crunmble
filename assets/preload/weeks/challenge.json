@@ -1,0 +1,59 @@
+{
+	"storyName": "this a fr on god situation",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "dairy",
+	"weekBefore": "weekexo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Wrathful Vengeance",
+			"reddude",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"The God",
+			"absolute",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Crumbled",
+			"crumbled",
+			[
+				255,
+				51,
+				117
+			]
+		],
+		[
+			"Disregard 3",
+			"grape",
+			[
+				128,
+				0,
+				128
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

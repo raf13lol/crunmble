@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF_BACK_OwO.png"><SubTexture name="BF_BACK_OwO idle0000" x="1175" y="1454" width="536" height="612" frameX="-583" frameY="-934" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO idle0001" x="0" y="2677" width="553" height="574" frameX="-567" frameY="-973" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO idle0002" x="1670" y="2076" width="542" height="587" frameX="-576" frameY="-960" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO idle0003" x="529" y="2076" width="537" height="598" frameX="-582" frameY="-948" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO idle0004" x="1674" y="0" width="527" height="625" frameX="-589" frameY="-921" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO left0000" x="591" y="1454" width="584" height="617" frameX="-495" frameY="-929" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO left0001" x="0" y="1454" width="591" height="622" frameX="-504" frameY="-924" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO up0000" x="0" y="801" width="543" height="653" frameX="-549" frameY="-894" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO up0001" x="1077" y="801" width="534" height="630" frameX="-546" frameY="-917" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO right0000" x="2201" y="607" width="526" height="603" frameX="-592" frameY="-944" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO right0001" x="2201" y="0" width="528" height="607" frameX="-586" frameY="-940" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO sqa0000" x="1066" y="2076" width="604" height="590" frameX="-503" frameY="-959" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO sqa0001" x="2201" y="1210" width="522" height="588" frameX="-584" frameY="-960" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO rou0000" x="553" y="2677" width="607" height="531" frameX="-545" frameY="-1016" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO rou0001" x="543" y="801" width="534" height="633" frameX="-582" frameY="-913" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO tri0000" x="0" y="0" width="480" height="801" frameX="-658" frameY="-718" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO tri0001" x="1133" y="0" width="541" height="666" frameX="-639" frameY="-852" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO bom0000" x="480" y="0" width="653" height="698" frameX="-501" frameY="-878" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO bom0001" x="2729" y="582" width="537" height="575" frameX="-549" frameY="-941" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO down0000" x="2729" y="0" width="541" height="582" frameX="-563" frameY="-965" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="BF_BACK_OwO down0001" x="0" y="2076" width="529" height="601" frameX="-574" frameY="-946" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

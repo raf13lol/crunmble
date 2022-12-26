@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Exo_Weel_Front.png"><SubTexture name="Exo_Weel_Front idle0000" x="563" y="0" width="508" height="947" frameX="-556" frameY="-466" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front idle0001" x="588" y="948" width="508" height="941" frameX="-556" frameY="-472" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front idle0002" x="1071" y="0" width="508" height="946" frameX="-556" frameY="-467" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front idle0003" x="1096" y="948" width="508" height="925" frameX="-556" frameY="-488" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front right0000" x="0" y="0" width="563" height="948" frameX="-556" frameY="-465" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front right0001" x="1579" y="0" width="582" height="946" frameX="-556" frameY="-467" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front right0002" x="0" y="948" width="588" height="945" frameX="-556" frameY="-468" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front left0000" x="2161" y="0" width="659" height="921" frameX="-405" frameY="-492" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front left0001" x="0" y="1893" width="681" height="908" frameX="-383" frameY="-505" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front left0002" x="681" y="1893" width="699" height="899" frameX="-365" frameY="-514" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front down0000" x="1888" y="1893" width="508" height="825" frameX="-556" frameY="-588" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front down0001" x="2820" y="0" width="514" height="825" frameX="-556" frameY="-588" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front down0002" x="2820" y="825" width="508" height="825" frameX="-556" frameY="-588" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front up0000" x="1380" y="1893" width="508" height="852" frameX="-556" frameY="-561" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front up0001" x="1604" y="948" width="508" height="866" frameX="-556" frameY="-547" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Exo_Weel_Front up0002" x="2161" y="921" width="508" height="897" frameX="-556" frameY="-516" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				165,
+				520
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Exo_Weel_Front idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				520
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Exo_Weel_Front left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				520
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Exo_Weel_Front down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				520
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Exo_Weel_Front up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				520
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Exo_Weel_Front right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Exo_Weel_Front",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "exoweel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.599999999999998
+}

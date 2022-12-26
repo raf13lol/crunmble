@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cheze.png"><SubTexture name="Cheze idle0000" x="1100" y="0" width="204" height="249" frameX="-83" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze idle0001" x="1100" y="691" width="203" height="208" frameX="-92" frameY="-164" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze idle0002" x="1100" y="476" width="204" height="215" frameX="-91" frameY="-157" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze idle0003" x="1157" y="1300" width="205" height="221" frameX="-89" frameY="-151" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze idle0004" x="1100" y="249" width="204" height="227" frameX="-87" frameY="-145" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze idle0005" x="1304" y="992" width="205" height="238" frameX="-84" frameY="-134" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze idle0006" x="1304" y="747" width="202" height="245" frameX="-85" frameY="-127" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze idle0007" x="744" y="728" width="204" height="257" frameX="-83" frameY="-115" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze left0000" x="0" y="1051" width="234" height="249" frameX="-18" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze left0001" x="697" y="1300" width="217" height="244" frameX="-35" frameY="-128" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze left0002" x="223" y="1300" width="225" height="245" frameX="-27" frameY="-127" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze down0000" x="1739" y="405" width="234" height="195" frameX="-61" frameY="-177" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze down0001" x="1739" y="205" width="235" height="200" frameX="-61" frameY="-172" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze down0002" x="1739" y="0" width="240" height="205" frameX="-54" frameY="-167" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze down0003" x="1362" y="1300" width="247" height="212" frameX="-46" frameY="-160" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze up0000" x="372" y="372" width="356" height="354" frameX="-8" frameY="-18" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze up0001" x="366" y="0" width="367" height="365" frameX="-2" frameY="-7" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze up0002" x="0" y="0" width="366" height="372" frameX="-2" frameY="0" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze up0003" x="733" y="0" width="367" height="365" frameX="-2" frameY="-7" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze right0000" x="914" y="1300" width="243" height="242" frameX="-116" frameY="-130" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze right0001" x="448" y="1300" width="249" height="245" frameX="-106" frameY="-127" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze right0002" x="234" y="1051" width="239" height="249" frameX="-112" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0000" x="473" y="1051" width="229" height="249" frameX="-58" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0001" x="702" y="1051" width="208" height="249" frameX="-79" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0002" x="910" y="1051" width="208" height="249" frameX="-79" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0003" x="910" y="1051" width="208" height="249" frameX="-79" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0004" x="1304" y="0" width="216" height="249" frameX="-71" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0005" x="1520" y="0" width="219" height="249" frameX="-68" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0006" x="1520" y="249" width="219" height="249" frameX="-68" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0007" x="1520" y="498" width="219" height="249" frameX="-68" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0008" x="0" y="1300" width="223" height="249" frameX="-64" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0009" x="1520" y="747" width="213" height="249" frameX="-74" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0010" x="1520" y="996" width="218" height="249" frameX="-69" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0011" x="1304" y="249" width="213" height="249" frameX="-74" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0012" x="1304" y="498" width="204" height="249" frameX="-83" frameY="-123" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0013" x="728" y="372" width="372" height="323" frameX="0" frameY="-49" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0014" x="0" y="728" width="372" height="323" frameX="0" frameY="-49" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0015" x="372" y="728" width="372" height="323" frameX="0" frameY="-49" frameWidth="372" frameHeight="372" />
+<SubTexture name="Cheze oh fuck0016" x="0" y="372" width="372" height="356" frameX="0" frameY="-16" frameWidth="372" frameHeight="372" />
+</TextureAtlas>

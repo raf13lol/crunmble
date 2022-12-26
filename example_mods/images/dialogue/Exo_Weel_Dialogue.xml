@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Exo_Weel_Dialogue.png"><SubTexture name="Exo_Weel_Dialogue speak0000" x="0" y="0" width="314" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Weel_Dialogue wtf0000" x="314" y="0" width="328" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Weel_Dialogue wtf0001" x="642" y="0" width="330" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Weel_Dialogue wtf0002" x="317" y="355" width="322" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Weel_Dialogue wtf0003" x="639" y="355" width="325" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Weel_Dialogue speak0001" x="972" y="0" width="318" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Weel_Dialogue speak0002" x="972" y="355" width="313" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Weel_Dialogue speak0003" x="0" y="355" width="317" height="355" frameX="-13" frameY="-179" frameWidth="425" frameHeight="635" />
+</TextureAtlas>

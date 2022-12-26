@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Beef_what_assets.png"><SubTexture name="Beef_what_assets w0000" x="678" y="268" width="154" height="132" frameX="-698" frameY="-851" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets w0001" x="500" y="274" width="155" height="136" frameX="-691" frameY="-846" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets m0000" x="361" y="590" width="171" height="75" frameX="-685" frameY="-902" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets m0001" x="190" y="590" width="171" height="95" frameX="-685" frameY="-882" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets a0000" x="0" y="0" width="142" height="170" frameX="-696" frameY="-811" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets a0001" x="346" y="170" width="140" height="136" frameX="-697" frameY="-844" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets o0000" x="500" y="0" width="178" height="137" frameX="-668" frameY="-843" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets o0001" x="500" y="137" width="164" height="137" frameX="-681" frameY="-842" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Beef_what_assets idle0000" x="678" y="0" width="188" height="134" frameX="-407" frameY="-845" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets idle0001" x="197" y="453" width="188" height="135" frameX="-407" frameY="-844" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets idle0002" x="0" y="590" width="190" height="132" frameX="-407" frameY="-847" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets idle0003" x="678" y="134" width="188" height="134" frameX="-407" frameY="-845" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets idle0004" x="385" y="453" width="188" height="135" frameX="-407" frameY="-844" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets left0000" x="154" y="170" width="192" height="143" frameX="-399" frameY="-837" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets left0001" x="306" y="0" width="194" height="144" frameX="-399" frameY="-836" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets down0000" x="678" y="400" width="186" height="132" frameX="-402" frameY="-848" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets down0001" x="197" y="314" width="188" height="138" frameX="-404" frameY="-842" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets up0000" x="142" y="0" width="164" height="149" frameX="-409" frameY="-831" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets up0001" x="0" y="170" width="154" height="144" frameX="-412" frameY="-836" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets right0000" x="0" y="453" width="197" height="137" frameX="-411" frameY="-843" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Beef_what_assets right0001" x="0" y="314" width="197" height="139" frameX="-408" frameY="-841" frameWidth="959" frameHeight="1586" />
+</TextureAtlas>

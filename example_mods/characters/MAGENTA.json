@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				140
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "MAGENTA idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MAGENTA left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				136
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MAGENTA down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MAGENTA up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MAGENTA right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				310
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "MAGENTA MAGENTA"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAGENTA",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "magenta",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		-50,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

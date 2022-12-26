@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cheese_Dialogue.png"><SubTexture name="Cheese_Dialogue Cheese_Normal0000" x="1074" y="361" width="269" height="358" frameX="-52" frameY="-50" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue Cheese_Normal0001" x="535" y="0" width="265" height="368" frameX="-52" frameY="-40" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue Cheese_Normal0002" x="0" y="0" width="268" height="373" frameX="-47" frameY="-35" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue Cheese_Normal0003" x="535" y="0" width="265" height="368" frameX="-52" frameY="-40" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue Cheese_meh0000" x="535" y="740" width="269" height="358" frameX="-52" frameY="-50" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue Cheese_meh0001" x="276" y="373" width="267" height="364" frameX="-52" frameY="-44" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue Cheese_meh0002" x="268" y="0" width="267" height="372" frameX="-52" frameY="-36" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue Cheese_meh0003" x="276" y="373" width="267" height="364" frameX="-52" frameY="-44" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue guh0000" x="0" y="740" width="269" height="358" frameX="-52" frameY="-50" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue guh0001" x="269" y="740" width="266" height="358" frameX="-52" frameY="-50" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue guh0002" x="804" y="740" width="272" height="355" frameX="-52" frameY="-53" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue guh0003" x="800" y="364" width="272" height="361" frameX="-52" frameY="-47" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue whuh0000" x="1074" y="0" width="272" height="361" frameX="-52" frameY="-47" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue whuh0001" x="800" y="0" width="274" height="364" frameX="-52" frameY="-44" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue whuh0002" x="0" y="373" width="276" height="367" frameX="-52" frameY="-41" frameWidth="408" frameHeight="419" />
+<SubTexture name="Cheese_Dialogue whuh0003" x="800" y="0" width="274" height="364" frameX="-52" frameY="-44" frameWidth="408" frameHeight="419" />
+</TextureAtlas>

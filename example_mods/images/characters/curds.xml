@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="curds.png"><SubTexture name="curds idle0000" x="427" y="273" width="131" height="89" frameX="-669" frameY="-1078" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds idle0001" x="168" y="326" width="178" height="92" frameX="-621" frameY="-1076" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds idle0002" x="135" y="231" width="183" height="94" frameX="-615" frameY="-1074" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds idle0003" x="0" y="130" width="154" height="101" frameX="-643" frameY="-1067" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds idle0004" x="427" y="183" width="142" height="90" frameX="-657" frameY="-1078" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds left0000" x="0" y="231" width="135" height="95" frameX="-659" frameY="-1073" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds left0001" x="284" y="0" width="143" height="98" frameX="-652" frameY="-1071" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds left0002" x="427" y="92" width="130" height="91" frameX="-667" frameY="-1077" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds down0000" x="435" y="419" width="135" height="78" frameX="-669" frameY="-1090" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds down0001" x="298" y="419" width="137" height="81" frameX="-668" frameY="-1087" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds down0002" x="164" y="419" width="134" height="86" frameX="-668" frameY="-1082" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds up0000" x="284" y="98" width="141" height="96" frameX="-668" frameY="-1072" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds up0001" x="143" y="0" width="141" height="107" frameX="-667" frameY="-1061" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds up0002" x="0" y="0" width="143" height="130" frameX="-667" frameY="-1038" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds right0000" x="0" y="419" width="164" height="91" frameX="-646" frameY="-1078" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds right0001" x="0" y="326" width="168" height="93" frameX="-645" frameY="-1076" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="curds right0002" x="427" y="0" width="163" height="92" frameX="-645" frameY="-1077" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

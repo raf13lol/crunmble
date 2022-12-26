@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				256,
+				571
+			],
+			"loop": true,
+			"fps": 17,
+			"anim": "idle",
+			"indices": [],
+			"name": "Scrumbly idle"
+		},
+		{
+			"offsets": [
+				256,
+				572
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Scrumbly down"
+		},
+		{
+			"offsets": [
+				255,
+				571
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scrumbly up"
+		},
+		{
+			"offsets": [
+				257,
+				572
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Scrumbly right"
+		},
+		{
+			"offsets": [
+				254,
+				571
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Scrumbly left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scrumbly",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "scrumbly",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		380,
+		-480
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

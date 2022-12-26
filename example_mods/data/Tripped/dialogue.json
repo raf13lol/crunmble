@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "trip_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "trip_dialogue"
+		},
+		{
+			"expression": "confused",
+			"text": "beep?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "Speak",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.35,
+			"portrait": "trip_dialogue"
+		}
+	]
+}

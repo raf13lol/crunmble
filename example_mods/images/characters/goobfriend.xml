@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goobfriend.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="25" y="25" width="440" height="306"/>
+	<SubTexture name="idle0001" x="490" y="25" width="440" height="306"/>
+	<SubTexture name="idle0002" x="25" y="356" width="440" height="306"/>
+	<SubTexture name="idle0003" x="490" y="25" width="440" height="306"/>
+	<SubTexture name="idle0004" x="490" y="25" width="440" height="306"/>
+	<SubTexture name="idle0005" x="490" y="25" width="440" height="306"/>
+	<SubTexture name="idle0006" x="490" y="25" width="440" height="306"/>
+	<SubTexture name="shocked0000" x="490" y="356" width="440" height="306"/>
+	<SubTexture name="shocked0001" x="490" y="356" width="440" height="306"/>
+	<SubTexture name="shocked0002" x="490" y="356" width="440" height="306"/>
+	<SubTexture name="shocked0003" x="490" y="356" width="440" height="306"/>
+	<SubTexture name="shocked0004" x="490" y="356" width="440" height="306"/>
+	<SubTexture name="shocked0005" x="490" y="356" width="440" height="306"/>
+	<SubTexture name="shocked0006" x="490" y="356" width="440" height="306"/>
+</TextureAtlas>

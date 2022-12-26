@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "grape_player idle"
+		},
+		{
+			"offsets": [
+				40,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "grape_player left"
+		},
+		{
+			"offsets": [
+				60,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "grape_player down"
+		},
+		{
+			"offsets": [
+				60,
+				221
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "grape_player up"
+		},
+		{
+			"offsets": [
+				60,
+				122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "grape_player right"
+		},
+		{
+			"offsets": [
+				50,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "grape_player stupidleft"
+		},
+		{
+			"offsets": [
+				70,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "grape_player stupiddown"
+		},
+		{
+			"offsets": [
+				40,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "grape_player stupidup"
+		},
+		{
+			"offsets": [
+				20,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "grape_player stupidright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/grape_player",
+	"position": [
+		-70,
+		150
+	],
+	"healthicon": "grape",
+	"flip_x": true,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		230,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

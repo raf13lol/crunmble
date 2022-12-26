@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "tripbg",
+		"player1": "BeeF",
+		"player2": "Trippin_Balls",
+		"player3": null,
+		"events": [
+			[
+				18600,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend_mad"
+					]
+				]
+			],
+			[
+				30085.7142857143,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend"
+					]
+				]
+			],
+			[
+				41742.8571428572,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend_mad"
+					]
+				]
+			],
+			[
+				49285.7142857143,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend"
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend_mad"
+					]
+				]
+			],
+			[
+				57514.2857142857,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend"
+					]
+				]
+			],
+			[
+				64371.4285714286,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend_mad"
+					]
+				]
+			],
+			[
+				84942.8571428571,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Tripped"
+	}
+}

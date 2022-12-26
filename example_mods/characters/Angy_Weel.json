@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-135,
+				510
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Angy_Weel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				510
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angy_Weel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				510
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angy_Weel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				510
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angy_Weel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				510
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angy_Weel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				510
+			],
+			"anim": "Wtf",
+			"fps": 15,
+			"name": "Angy_Weel wtf",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Angy_Weel",
+	"position": [
+		-140,
+		250
+	],
+	"healthicon": "weel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		-440,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

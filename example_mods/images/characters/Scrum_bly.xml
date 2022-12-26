@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Scrum_bly.png"><SubTexture name="Scrum_bly down0000" x="423" y="968" width="232" height="181" frameX="-29" frameY="-423" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly down0001" x="655" y="968" width="244" height="176" frameX="-23" frameY="-428" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly down0002" x="899" y="968" width="246" height="174" frameX="-22" frameY="-430" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly idle0000" x="639" y="388" width="192" height="255" frameX="-44" frameY="-349" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly idle0001" x="945" y="681" width="201" height="249" frameX="-39" frameY="-356" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly idle0002" x="0" y="968" width="210" height="247" frameX="-34" frameY="-358" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly idle0003" x="210" y="968" width="213" height="245" frameX="-32" frameY="-361" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly idle0004" x="738" y="681" width="207" height="252" frameX="-35" frameY="-354" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly idle0005" x="881" y="288" width="185" height="259" frameX="-46" frameY="-345" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly left0000" x="881" y="0" width="357" height="288" frameX="-47" frameY="-317" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly left0001" x="0" y="681" width="369" height="287" frameX="-26" frameY="-317" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly left0002" x="369" y="681" width="369" height="287" frameX="-22" frameY="-317" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly right0000" x="0" y="388" width="315" height="293" frameX="-56" frameY="-311" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly right0001" x="315" y="388" width="324" height="293" frameX="-61" frameY="-311" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly right0002" x="553" y="0" width="328" height="294" frameX="-62" frameY="-310" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly up0000" x="364" y="0" width="189" height="381" frameX="-45" frameY="-223" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly up0001" x="181" y="0" width="183" height="387" frameX="-48" frameY="-218" frameWidth="654" frameHeight="708" />
+<SubTexture name="Scrum_bly up0002" x="0" y="0" width="181" height="388" frameX="-49" frameY="-216" frameWidth="654" frameHeight="708" />
+</TextureAtlas>

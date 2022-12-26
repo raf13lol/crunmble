@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "Speak",
+			"text": "Beeopoororpop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "Angry",
+			"text": "NEVER FELT BETTER PAL! WANNA GO FOR A ROUND?!\r\n",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "exo_crubm_dialogue"
+		},
+		{
+			"expression": "shocked",
+			"text": "beep..?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "Twitch",
+			"text": "WHAT DO YOU MEAN HAHA IM NOT IN UNENDING PAIN AND MISERY WITH EACH BREATH I TAKE HAHAHAHAHA",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "exo_crubm_dialogue"
+		},
+		{
+			"expression": "shocked",
+			"text": "bop.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "Glitch",
+			"text": "HAHAHAHAHA YOU’RE SO FUNNY PLEASE END MY PITIFUL LIFE ALREADY HAHA",
+			"boxState": "normal",
+			"portrait": "exo_crubm_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "I didn’t say that.",
+			"boxState": "normal",
+			"portrait": "exo_crubm_dialogue",
+			"speed": 0.0499999999999999,
+			"sound": ""
+		}
+	]
+}

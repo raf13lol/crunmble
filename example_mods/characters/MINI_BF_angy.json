@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				966,
+				600
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "Beef_what_assets idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				964,
+				601
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "Beef_what_assets down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				965,
+				600
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "Beef_what_assets up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				967,
+				600
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "Beef_what_assets right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				964,
+				600
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "Beef_what_assets left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1246,
+				598
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Beef_what_assets m"
+		},
+		{
+			"offsets": [
+				1251,
+				600
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Beef_what_assets o"
+		},
+		{
+			"offsets": [
+				1245,
+				600
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Beef_what_assets a"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1248,
+				602
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 13,
+			"name": "Beef_what_assets w",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Beef_what_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "minibeef",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		860,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

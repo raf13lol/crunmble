@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				336,
+				701
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "curds idle"
+		},
+		{
+			"offsets": [
+				337,
+				702
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "curds down"
+		},
+		{
+			"offsets": [
+				337,
+				701
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singUP",
+			"loop": false,
+			"name": "curds up"
+		},
+		{
+			"offsets": [
+				338,
+				702
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "curds right"
+		},
+		{
+			"offsets": [
+				335,
+				701
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "curds left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/curds",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "scrumbly",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		-130,
+		-480
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-384,
+				581
+			],
+			"loop": true,
+			"fps": 17,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chrumb idle"
+		},
+		{
+			"offsets": [
+				-384,
+				576
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chrumb down"
+		},
+		{
+			"offsets": [
+				-385,
+				581
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chrumb up"
+		},
+		{
+			"offsets": [
+				-385,
+				577
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chrumb right"
+		},
+		{
+			"offsets": [
+				-390,
+				580
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Chrumb dodge"
+		},
+		{
+			"offsets": [
+				-384,
+				582
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chrumb left"
+		},
+		{
+			"offsets": [
+				-480,
+				546
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Chrumb LOL"
+		},
+		{
+			"offsets": [
+				-480,
+				546
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dead",
+			"loop": true,
+			"name": "Chrumb LOL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chrumb",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "chrumb",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		230,
+		29
+	],
+	"camera_position": [
+		160,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

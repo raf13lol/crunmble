@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Red_Dude.png"><SubTexture name="Red_Dude idle0000" x="783" y="961" width="394" height="900" frameX="-243" frameY="-102" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude idle0001" x="0" y="961" width="385" height="905" frameX="-246" frameY="-94" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude idle0002" x="1461" y="0" width="421" height="912" frameX="-246" frameY="-88" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude idle0003" x="2505" y="885" width="390" height="882" frameX="-253" frameY="-129" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude idle0004" x="1177" y="961" width="398" height="891" frameX="-240" frameY="-119" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude idle0005" x="385" y="961" width="398" height="904" frameX="-232" frameY="-107" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude left0000" x="1882" y="0" width="623" height="888" frameX="-95" frameY="-77" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude left0001" x="0" y="1866" width="656" height="880" frameX="-79" frameY="-87" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude left0002" x="2505" y="0" width="677" height="885" frameX="-66" frameY="-87" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude down0000" x="1716" y="1866" width="467" height="822" frameX="-340" frameY="-101" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude down0001" x="1247" y="1866" width="469" height="831" frameX="-333" frameY="-92" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude down0002" x="1882" y="888" width="477" height="844" frameX="-322" frameY="-81" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude up0000" x="478" y="0" width="498" height="954" frameX="-131" frameY="-64" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude up0001" x="976" y="0" width="485" height="953" frameX="-138" frameY="-57" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude up0002" x="0" y="0" width="478" height="961" frameX="-132" frameY="-58" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude right0000" x="656" y="1866" width="591" height="833" frameX="-111" frameY="-106" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude right0001" x="2183" y="1866" width="596" height="818" frameX="-123" frameY="-128" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Red_Dude right0002" x="3182" y="0" width="619" height="779" frameX="-143" frameY="-172" frameWidth="959" frameHeight="1121" />
+</TextureAtlas>

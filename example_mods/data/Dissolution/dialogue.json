@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "agitated",
+			"text": "Man I swear to the lord above, I will bash your skull into a brick wall."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Boi_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do it, no balls"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "One more word out of you and I'm going to fucking LOSE IT."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Boi_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bitch."
+		},
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "angry",
+			"expression": "agitated",
+			"text": "GRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaa"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "Crumb_Dialogue",
+			"boxState": "normal",
+			"expression": "Point",
+			"text": "And so I said-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Crumb_Dialogue",
+			"boxState": "normal",
+			"expression": "Smug",
+			"text": "Wait where i am????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Boi_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep boobly badoogle."
+		},
+		{
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I need anger management."
+		}
+	]
+}

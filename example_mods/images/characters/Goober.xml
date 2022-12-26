@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Goober.png"><SubTexture name="Goober idle0000" x="0" y="555" width="308" height="245" frameX="-20" frameY="-68" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober idle0001" x="308" y="555" width="308" height="242" frameX="-20" frameY="-71" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober idle0002" x="842" y="0" width="308" height="235" frameX="-20" frameY="-78" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober idle0003" x="842" y="235" width="308" height="220" frameX="-20" frameY="-93" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober down0000" x="573" y="800" width="241" height="131" frameX="-48" frameY="-185" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober down0001" x="814" y="800" width="241" height="104" frameX="-48" frameY="-212" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober down0002" x="0" y="960" width="241" height="93" frameX="-48" frameY="-223" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober down0003" x="241" y="960" width="241" height="70" frameX="-48" frameY="-246" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober up0000" x="197" y="0" width="197" height="294" frameX="-53" frameY="-22" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober up0001" x="0" y="0" width="197" height="302" frameX="-53" frameY="-14" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober up0002" x="394" y="0" width="197" height="286" frameX="-53" frameY="-30" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober up0003" x="394" y="0" width="197" height="286" frameX="-53" frameY="-30" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober left0000" x="842" y="455" width="307" height="160" frameX="-18" frameY="-155" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober left0001" x="842" y="615" width="302" height="160" frameX="-23" frameY="-155" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober left0002" x="0" y="800" width="293" height="160" frameX="-32" frameY="-155" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober left0003" x="293" y="800" width="280" height="160" frameX="-45" frameY="-155" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober right0000" x="0" y="302" width="274" height="253" frameX="-78" frameY="-59" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober right0001" x="274" y="302" width="269" height="253" frameX="-78" frameY="-59" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober right0002" x="591" y="0" width="251" height="253" frameX="-78" frameY="-59" frameWidth="372" frameHeight="372" />
+<SubTexture name="Goober right0003" x="591" y="253" width="240" height="253" frameX="-78" frameY="-59" frameWidth="372" frameHeight="372" />
+</TextureAtlas>

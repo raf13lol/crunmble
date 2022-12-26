@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exo_crumb.png"><SubTexture name="exo_crumb down0000" x="405" y="453" width="154" height="194" frameX="-468" frameY="-872" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb down0001" x="817" y="0" width="154" height="179" frameX="-468" frameY="-887" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb down0002" x="817" y="179" width="154" height="175" frameX="-468" frameY="-891" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb idle0000" x="218" y="453" width="187" height="202" frameX="-439" frameY="-853" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb idle0001" x="559" y="453" width="195" height="181" frameX="-435" frameY="-875" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb idle0002" x="0" y="659" width="200" height="174" frameX="-435" frameY="-882" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb idle0003" x="200" y="659" width="205" height="168" frameX="-432" frameY="-887" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb idle0004" x="0" y="242" width="181" height="211" frameX="-443" frameY="-845" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb left0000" x="601" y="207" width="149" height="206" frameX="-450" frameY="-857" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb left0001" x="181" y="242" width="147" height="208" frameX="-445" frameY="-856" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb left0002" x="328" y="242" width="147" height="208" frameX="-443" frameY="-856" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb right0000" x="0" y="453" width="218" height="206" frameX="-386" frameY="-855" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb right0001" x="601" y="0" width="216" height="207" frameX="-392" frameY="-855" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb right0002" x="601" y="0" width="216" height="207" frameX="-394" frameY="-855" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb up0000" x="402" y="0" width="199" height="229" frameX="-453" frameY="-776" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb up0001" x="0" y="0" width="201" height="242" frameX="-453" frameY="-756" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="exo_crumb up0002" x="201" y="0" width="201" height="242" frameX="-453" frameY="-753" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

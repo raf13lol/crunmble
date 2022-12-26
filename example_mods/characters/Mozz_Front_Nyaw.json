@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				130,
+				610
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Mozz_Front idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				402
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Mozz_Front right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				648
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Mozz_Front up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				380
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Mozz_Front left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				511
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Mozz_Front down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				115,
+				681
+			],
+			"anim": "SCREAM",
+			"fps": 19,
+			"name": "Mozz_Front aah",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mozz_Front",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "icon-mozzarella",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		0,
+		21
+	],
+	"camera_position": [
+		-600,
+		-860
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

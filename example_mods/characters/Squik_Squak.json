@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-162,
+				-204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-143,
+				-208
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-88,
+				-192
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-115,
+				-200
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-97,
+				-200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squik",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Squik",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		230,
+		29
+	],
+	"camera_position": [
+		90,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

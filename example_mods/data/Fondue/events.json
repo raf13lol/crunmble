@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				119263.803680981,
+				[
+					[
+						"Play Animation",
+						"funny",
+						"1"
+					]
+				]
+			],
+			[
+				120092.024539877,
+				[
+					[
+						"Play Animation",
+						"funny",
+						"Cheze"
+					]
+				]
+			]
+		]
+	}
+}

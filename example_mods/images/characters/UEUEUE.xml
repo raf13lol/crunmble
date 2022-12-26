@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="UEUEUE.png"><SubTexture name="UEUEUE idle0000" x="0" y="0" width="340" height="710" frameX="-404" frameY="-827" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE idle0001" x="341" y="710" width="164" height="152" frameX="-400" frameY="-830" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE idle0002" x="670" y="710" width="171" height="145" frameX="-397" frameY="-837" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE idle0003" x="565" y="0" width="154" height="160" frameX="-405" frameY="-822" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE idle0004" x="719" y="0" width="159" height="158" frameX="-403" frameY="-824" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE left0000" x="340" y="351" width="174" height="170" frameX="-386" frameY="-812" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE left0001" x="340" y="521" width="166" height="167" frameX="-395" frameY="-815" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE down0000" x="878" y="0" width="167" height="145" frameX="-399" frameY="-837" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE down0001" x="505" y="710" width="165" height="148" frameX="-401" frameY="-834" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE up0000" x="340" y="0" width="225" height="180" frameX="-367" frameY="-802" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE up0001" x="340" y="180" width="220" height="171" frameX="-369" frameY="-811" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE aaa0000" x="0" y="710" width="172" height="156" frameX="-406" frameY="-826" frameWidth="959" frameHeight="1586" />
+<SubTexture name="UEUEUE aaa0001" x="172" y="710" width="169" height="154" frameX="-405" frameY="-828" frameWidth="959" frameHeight="1586" />
+</TextureAtlas>

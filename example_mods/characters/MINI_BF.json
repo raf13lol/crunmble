@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				966,
+				600
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "Beef_assets idle"
+		},
+		{
+			"offsets": [
+				964,
+				601
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Beef_assets down"
+		},
+		{
+			"offsets": [
+				965,
+				600
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Beef_assets up"
+		},
+		{
+			"offsets": [
+				967,
+				600
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Beef_assets right"
+		},
+		{
+			"offsets": [
+				969,
+				601
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "what",
+			"indices": [],
+			"name": "Beef_assets GUH"
+		},
+		{
+			"offsets": [
+				964,
+				600
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Beef_assets left"
+		},
+		{
+			"offsets": [
+				1246,
+				598
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Beef_assets th"
+		},
+		{
+			"offsets": [
+				1251,
+				600
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Beef_assets a"
+		},
+		{
+			"offsets": [
+				1245,
+				600
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Beef_assets f"
+		},
+		{
+			"offsets": [
+				1248,
+				602
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Beef_assets wh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Beef_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "minibeef",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		860,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

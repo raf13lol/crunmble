@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				65600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Squik_Squak"
+					],
+					[
+						"Change Character",
+						"gf",
+						"Goober_Goober_Angry"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-empty"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Goober_Goober"
+					]
+				]
+			]
+		]
+	}
+}

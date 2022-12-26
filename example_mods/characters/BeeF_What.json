@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				170
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "BeeF_What idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				171
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "BeeF_What down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				170
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "BeeF_What up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				169
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "BeeF_What right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				168
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "BeeF_What left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				167
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BeeF_What df",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				171
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BeeF_What er",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				157
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BeeF_What y6",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				172
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BeeF_What 4k ulte hd",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BeeF_What",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "beef",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		130,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

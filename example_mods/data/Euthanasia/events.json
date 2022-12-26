@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				153600,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Angy_Weel"
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				210375,
+				[
+					[
+						"Play Animation",
+						"Grr",
+						"dad"
+					]
+				]
+			],
+			[
+				210600,
+				[
+					[
+						"Play Animation",
+						"SCREAM",
+						"dad"
+					]
+				]
+			],
+			[
+				210637.5,
+				[
+					[
+						"Play Animation",
+						"Wtf",
+						"gf"
+					]
+				]
+			],
+			[
+				210825,
+				[
+					[
+						"Image_Appearance",
+						"baller",
+						"6"
+					]
+				]
+			],
+			[
+				211200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Back_Frend_BF"
+					],
+					[
+						"Change Character",
+						"gf",
+						"Dead"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Mozz_Front_Nyaw"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"crumbly_scrumbly",
+						"Dead"
+					],
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

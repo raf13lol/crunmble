@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		170,
+		80
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Crumb_Dialogue Crumb_Point",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Crumb_Dialogue Crumb_Point0001",
+			"anim": "Point",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Crumb_Dialogue Crumb_Smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Crumb_Dialogue Crumb_Smug0001",
+			"anim": "Smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Crumb_Dialogue fuck you",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Crumb_Dialogue fuck you",
+			"anim": "fuck you",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Crumb_Dialogue"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				170
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "Morkpler gasp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				171
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Morkpler oh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				170
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Morkpler AAA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Morkpler askl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				168
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Morkpler le",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Morkpler",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		127,
+		206,
+		226
+	],
+	"camera_position": [
+		130,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

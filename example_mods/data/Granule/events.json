@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				46071.4285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"Crumtbh"
+					]
+				]
+			],
+			[
+				47142.8571428571,
+				[
+					[
+						"Change Character",
+						"1",
+						"crumbly_scrumbly"
+					]
+				]
+			],
+			[
+				54642.8571428572,
+				[
+					[
+						"Change Character",
+						"BF",
+						"MARKIPLIER"
+					]
+				]
+			],
+			[
+				55714.2857142857,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Boyfend"
+					]
+				]
+			],
+			[
+				64285.7142857143,
+				[
+					[
+						"Change Character",
+						"bf",
+						"skeletonbad"
+					]
+				]
+			],
+			[
+				65357.1428571429,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Boyfend"
+					]
+				]
+			]
+		]
+	}
+}

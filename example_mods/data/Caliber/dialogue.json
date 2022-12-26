@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Beep bopo boop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "Angry",
+			"text": "PUT ME OUT OF MY GODDAMN MISERY",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "exo_weel_dialogue"
+		},
+		{
+			"expression": "pissed",
+			"text": "nah",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "YOU BITCH",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "exo_weel_dialogue"
+		},
+		{
+			"expression": "fuck you",
+			"text": "Beep bop boo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "Angry",
+			"text": "IM LITERALLY BEING POSSESSED YOU INSENSITIVE PRICK",
+			"boxState": "angry",
+			"portrait": "exo_weel_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "boh.",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.19,
+			"sound": ""
+		}
+	]
+}

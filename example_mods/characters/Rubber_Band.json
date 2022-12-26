@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				336,
+				541
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rubber idle"
+		},
+		{
+			"offsets": [
+				336,
+				542
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rubber down"
+		},
+		{
+			"offsets": [
+				333,
+				541
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rubber up"
+		},
+		{
+			"offsets": [
+				321,
+				544
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rubber right"
+		},
+		{
+			"offsets": [
+				342,
+				542
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rubber left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rubber",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "rubber",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		230,
+		29
+	],
+	"camera_position": [
+		-340,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Exo_Crubm_Dialogue.png"><SubTexture name="Exo_Crubm_Dialogue spek0000" x="435" y="263" width="221" height="257" frameX="-112" frameY="-180" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue spek0001" x="696" y="523" width="215" height="255" frameX="-112" frameY="-182" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue spek0002" x="0" y="263" width="221" height="260" frameX="-112" frameY="-177" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue spek0003" x="720" y="0" width="226" height="257" frameX="-112" frameY="-180" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue glitch0000" x="0" y="523" width="231" height="257" frameX="-107" frameY="-180" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue glitch0001" x="0" y="0" width="241" height="263" frameX="-99" frameY="-174" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue glitch0002" x="241" y="0" width="257" height="263" frameX="-97" frameY="-174" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue glitch0003" x="447" y="523" width="249" height="256" frameX="-97" frameY="-181" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue sane0000" x="720" y="257" width="223" height="257" frameX="-112" frameY="-180" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue sane0001" x="0" y="780" width="226" height="254" frameX="-112" frameY="-183" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue sane0002" x="226" y="780" width="225" height="254" frameX="-112" frameY="-183" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue twitch0000" x="231" y="523" width="216" height="257" frameX="-112" frameY="-180" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue twitch0001" x="946" y="0" width="214" height="255" frameX="-93" frameY="-182" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue twitch0002" x="221" y="263" width="214" height="260" frameX="-111" frameY="-177" frameWidth="425" frameHeight="635" />
+<SubTexture name="Exo_Crubm_Dialogue twitch0003" x="498" y="0" width="222" height="262" frameX="-112" frameY="-175" frameWidth="425" frameHeight="635" />
+</TextureAtlas>

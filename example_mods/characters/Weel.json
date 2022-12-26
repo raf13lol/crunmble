@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Weel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Weel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Weel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Weel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Weel right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Weel",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "weel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		-190,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

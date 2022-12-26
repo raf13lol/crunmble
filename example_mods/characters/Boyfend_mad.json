@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				555,
+				600
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "Boyfend_mad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				554,
+				601
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "Boyfend_mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				555,
+				595
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "Boyfend_mad up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				551,
+				598
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "Boyfend_mad right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				557,
+				599
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "Boyfend_mad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				553,
+				594
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Boyfend_mad miss_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				556,
+				600
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Boyfend_mad miss_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				554,
+				594
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Boyfend_mad miss_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				556,
+				592
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Boyfend_mad miss_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfend_mad",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "beef",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		550,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

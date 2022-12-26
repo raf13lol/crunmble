@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				420,
+				400
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Mozzarella idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				400,
+				352
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mozzarella right"
+		},
+		{
+			"offsets": [
+				436,
+				368
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mozzarella up"
+		},
+		{
+			"offsets": [
+				438,
+				380
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mozzarella left"
+		},
+		{
+			"offsets": [
+				430,
+				321
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mozzarella down"
+		},
+		{
+			"offsets": [
+				420,
+				400
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "SCREAM",
+			"indices": [],
+			"name": "Mozzarella aah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mozzarella",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-mozzarella",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		0,
+		21
+	],
+	"camera_position": [
+		390,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

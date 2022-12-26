@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WELCOME TO MY DOMAIN OF TRUE EVIL MUHAHAHAHAHAHAHAHA"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro this place looks like the back of a chipotle lmao am i ri-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "stop. genuinely shut the fuck up."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mozzarella_dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "all you do is devalue other people’s hard work for no god damn reason and make them feel bad about themselves."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "agitated",
+			"text": "You serve zero purpose, you should kill\\nyourself. now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ok but why you named after a cheese"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "agitated",
+			"text": "SAHJSASHJASHJAHSJUASJHADKJUHASHAKSHDKASDKASDJKHAKDJASKJHDASD"
+		}
+	]
+}

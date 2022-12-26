@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happi",
+			"text": "Well hi there pal!",
+			"boxState": "normal",
+			"portrait": "weel_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Skibadah",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "A song?",
+			"boxState": "normal",
+			"portrait": "weel_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Happi",
+			"text": "Sure Friend!",
+			"boxState": "normal",
+			"portrait": "weel_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Skilililililbipbipbipbip",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Cheese_Dialogue Cheese_Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Cheese_Dialogue Cheese_Normal0000",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Cheese_Dialogue Cheese_meh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Cheese_Dialogue Cheese_meh0000",
+			"anim": "meh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Cheese_Dialogue whuh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Cheese_Dialogue guh",
+			"anim": "Guh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Cheese_Dialogue"
+}

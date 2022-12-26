@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				620
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mozzerella_Sticks idle"
+		},
+		{
+			"offsets": [
+				640,
+				550
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mozzerella_Sticks down"
+		},
+		{
+			"offsets": [
+				740,
+				562
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mozzerella_Sticks right"
+		},
+		{
+			"offsets": [
+				610,
+				490
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mozzerella_Sticks up"
+		},
+		{
+			"offsets": [
+				758,
+				610
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mozzerella_Sticks left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mozzerella_Sticks",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-mozz",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		0,
+		0
+	],
+	"camera_position": [
+		-300,
+		-730
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

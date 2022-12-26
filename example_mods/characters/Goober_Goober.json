@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-92,
+				-394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-93,
+				-388
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-88,
+				-392
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-105,
+				-390
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-97,
+				-390
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goober2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gooblin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		242,
+		0
+	],
+	"camera_position": [
+		90,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

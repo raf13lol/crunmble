@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-175,
+				-100
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Goober idle"
+		},
+		{
+			"offsets": [
+				-110,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Goober left"
+		},
+		{
+			"offsets": [
+				-175,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Goober down"
+		},
+		{
+			"offsets": [
+				-152,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Goober up"
+		},
+		{
+			"offsets": [
+				-145,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Goober right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Goober",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gooblin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		242,
+		0
+	],
+	"camera_position": [
+		180,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

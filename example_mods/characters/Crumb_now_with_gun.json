@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				956,
+				431
+			],
+			"anim": "idle",
+			"fps": 17,
+			"name": "Crumb_Gun idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				956,
+				431
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "Crumb_Gun down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				956,
+				431
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Crumb_Gun up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				955,
+				427
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Crumb_Gun right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				956,
+				430
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Crumb_Gun pew",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				940,
+				500
+			],
+			"anim": "singLEFTmiss",
+			"fps": 17,
+			"name": "Crumb_Gun circ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				940,
+				430
+			],
+			"anim": "singDOWNmiss",
+			"fps": 17,
+			"name": "Crumb_Gun cumb",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				940,
+				512
+			],
+			"anim": "singUPmiss",
+			"fps": 17,
+			"name": "Crumb_Gun guh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				957,
+				432
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "Crumb_Gun left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				980,
+				460
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 17,
+			"name": "Crumb_Gun ass",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Crumb_Gun",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "crumb",
+	"flip_x": true,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		410,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

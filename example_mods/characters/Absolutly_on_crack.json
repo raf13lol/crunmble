@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				145,
+				-17
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-77
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				331,
+				449
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				446,
+				170
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-213
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dingolfer_Mcholfer",
+	"position": [
+		0,
+		-190
+	],
+	"healthicon": "OHGODOHFU",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		230,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

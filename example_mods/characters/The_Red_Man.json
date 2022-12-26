@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				142
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Red_Dude right"
+		},
+		{
+			"offsets": [
+				263,
+				220
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Red_Dude idle"
+		},
+		{
+			"offsets": [
+				228,
+				311
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Red_Dude up"
+		},
+		{
+			"offsets": [
+				383,
+				200
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Red_Dude left"
+		},
+		{
+			"offsets": [
+				250,
+				111
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Red_Dude down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Red_Dude",
+	"position": [
+		100,
+		-200
+	],
+	"healthicon": "reddude",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		8,
+		0
+	],
+	"camera_position": [
+		-130,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

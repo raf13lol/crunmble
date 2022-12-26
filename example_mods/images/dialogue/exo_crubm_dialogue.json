@@ -1,0 +1,50 @@
+{
+	"position": [
+		170,
+		80
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Exo_Crubm_Dialogue",
+	"animations": [
+		{
+			"loop_name": "Exo_Crubm_Dialogue spek",
+			"idle_offsets": [
+				80,
+				110
+			],
+			"idle_name": "Exo_Crubm_Dialogue spek0000",
+			"anim": "Speak",
+			"loop_offsets": [
+				80,
+				110
+			]
+		},
+		{
+			"loop_name": "Exo_Crubm_Dialogue glitch",
+			"idle_offsets": [
+				80,
+				110
+			],
+			"idle_name": "Exo_Crubm_Dialogue sane",
+			"anim": "Glitch",
+			"loop_offsets": [
+				80,
+				110
+			]
+		},
+		{
+			"loop_name": "Exo_Crubm_Dialogue twitch",
+			"idle_offsets": [
+				80,
+				110
+			],
+			"idle_name": "Exo_Crubm_Dialogue spek",
+			"anim": "Twitch",
+			"loop_offsets": [
+				80,
+				110
+			]
+		}
+	]
+}

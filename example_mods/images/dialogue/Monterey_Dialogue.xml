@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Monterey_Dialogue.png"><SubTexture name="Monterey_Dialogue speak0000" x="0" y="453" width="254" height="435" frameX="-98" frameY="-77" frameWidth="425" frameHeight="635" />
+<SubTexture name="Monterey_Dialogue speak0001" x="511" y="0" width="257" height="444" frameX="-98" frameY="-68" frameWidth="425" frameHeight="635" />
+<SubTexture name="Monterey_Dialogue speak0002" x="0" y="0" width="256" height="453" frameX="-96" frameY="-59" frameWidth="425" frameHeight="635" />
+<SubTexture name="Monterey_Dialogue speak0003" x="511" y="0" width="257" height="444" frameX="-98" frameY="-68" frameWidth="425" frameHeight="635" />
+<SubTexture name="Monterey_Dialogue happy0000" x="254" y="453" width="254" height="435" frameX="-98" frameY="-77" frameWidth="425" frameHeight="635" />
+<SubTexture name="Monterey_Dialogue happy0001" x="768" y="0" width="255" height="442" frameX="-98" frameY="-70" frameWidth="425" frameHeight="635" />
+<SubTexture name="Monterey_Dialogue happy0002" x="256" y="0" width="255" height="449" frameX="-98" frameY="-63" frameWidth="425" frameHeight="635" />
+<SubTexture name="Monterey_Dialogue happy0003" x="768" y="0" width="255" height="442" frameX="-98" frameY="-70" frameWidth="425" frameHeight="635" />
+</TextureAtlas>

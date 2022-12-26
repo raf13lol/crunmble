@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				420,
+				400
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mozzy_Wozzy idle"
+		},
+		{
+			"offsets": [
+				360,
+				382
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mozzy_Wozzy right"
+		},
+		{
+			"offsets": [
+				416,
+				478
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mozzy_Wozzy up"
+		},
+		{
+			"offsets": [
+				438,
+				430
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mozzy_Wozzy left"
+		},
+		{
+			"offsets": [
+				430,
+				321
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mozzy_Wozzy down"
+		},
+		{
+			"offsets": [
+				410,
+				400
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "SCREAM",
+			"indices": [],
+			"name": "Mozzy_Wozzy aah"
+		},
+		{
+			"offsets": [
+				410,
+				400
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "Grr",
+			"loop": false,
+			"name": "Mozzy_Wozzy Grr"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mozzy_Wozzy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-mozzarella",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		0,
+		21
+	],
+	"camera_position": [
+		-490,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

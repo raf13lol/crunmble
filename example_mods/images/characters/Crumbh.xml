@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crumbh.png"><SubTexture name="Crumbh idle0000" x="732" y="412" width="194" height="204" frameX="-689" frameY="-765" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh idle0001" x="0" y="241" width="189" height="219" frameX="-692" frameY="-751" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh idle0002" x="180" y="0" width="182" height="234" frameX="-697" frameY="-736" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh idle0003" x="944" y="188" width="211" height="187" frameX="-681" frameY="-783" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh idle0004" x="397" y="673" width="206" height="194" frameX="-684" frameY="-776" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh idle0005" x="0" y="673" width="196" height="201" frameX="-689" frameY="-768" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh left0000" x="0" y="460" width="185" height="213" frameX="-683" frameY="-757" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh left0001" x="548" y="0" width="184" height="214" frameX="-677" frameY="-756" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh left0002" x="400" y="460" width="189" height="208" frameX="-686" frameY="-762" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh down0000" x="603" y="673" width="206" height="193" frameX="-685" frameY="-777" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh down0001" x="944" y="0" width="213" height="188" frameX="-684" frameY="-782" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh down0002" x="196" y="673" width="201" height="199" frameX="-689" frameY="-770" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh up0000" x="362" y="0" width="186" height="230" frameX="-691" frameY="-740" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh up0001" x="0" y="0" width="180" height="241" frameX="-694" frameY="-729" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh up0002" x="189" y="241" width="192" height="219" frameX="-690" frameY="-751" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh right0000" x="732" y="0" width="212" height="207" frameX="-690" frameY="-763" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh right0001" x="185" y="460" width="215" height="213" frameX="-692" frameY="-757" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbh right0002" x="732" y="207" width="200" height="205" frameX="-688" frameY="-765" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

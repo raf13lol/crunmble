@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crumb_Gun.png"><SubTexture name="Crumb_Gun idle0000" x="3386" y="1151" width="522" height="565" frameX="-197" frameY="-391" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun idle0001" x="2017" y="712" width="685" height="651" frameX="-46" frameY="-425" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun idle0002" x="0" y="1702" width="693" height="705" frameX="-37" frameY="-413" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun idle0003" x="693" y="1702" width="724" height="681" frameX="-7" frameY="-402" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun idle0004" x="3386" y="576" width="523" height="575" frameX="-195" frameY="-382" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun idle0005" x="2116" y="1702" width="519" height="581" frameX="-196" frameY="-376" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun idle0006" x="1359" y="2407" width="526" height="581" frameX="-189" frameY="-376" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun left0000" x="3386" y="0" width="642" height="576" frameX="-25" frameY="-381" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun left0001" x="1885" y="2407" width="620" height="578" frameX="-53" frameY="-379" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun left0002" x="2505" y="2407" width="561" height="577" frameX="-122" frameY="-380" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun down0000" x="2717" y="2992" width="753" height="523" frameX="-69" frameY="-435" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun down0001" x="1985" y="2992" width="732" height="538" frameX="-72" frameY="-420" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun down0002" x="719" y="2992" width="703" height="550" frameX="-82" frameY="-408" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun up0000" x="695" y="898" width="645" height="803" frameX="-46" frameY="-154" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun up0001" x="671" y="0" width="651" height="847" frameX="-45" frameY="-110" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun up0002" x="1340" y="898" width="642" height="757" frameX="-59" frameY="-200" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun up0003" x="2017" y="0" width="691" height="712" frameX="-10" frameY="-245" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun up0004" x="1417" y="1702" width="699" height="637" frameX="-2" frameY="-320" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun right0000" x="603" y="2407" width="756" height="584" frameX="-14" frameY="-372" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun right0001" x="0" y="2992" width="719" height="574" frameX="-48" frameY="-382" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun right0002" x="0" y="2407" width="603" height="585" frameX="-159" frameY="-372" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun pew0000" x="3386" y="1716" width="526" height="565" frameX="-189" frameY="-391" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun pew0001" x="2708" y="1248" width="575" height="588" frameX="-193" frameY="-369" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun pew0002" x="3386" y="2281" width="549" height="554" frameX="-187" frameY="-403" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun pew0003" x="2708" y="1836" width="572" height="540" frameX="-161" frameY="-417" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun pew0004" x="1422" y="2992" width="563" height="540" frameX="-161" frameY="-417" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun guh0000" x="4028" y="0" width="607" height="520" frameX="-176" frameY="-437" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun guh0001" x="0" y="0" width="671" height="898" frameX="-132" frameY="-209" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun cumb0000" x="4028" y="520" width="399" height="349" frameX="-259" frameY="-614" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun cumb0001" x="4028" y="869" width="558" height="280" frameX="-153" frameY="-684" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun ass0000" x="2708" y="625" width="561" height="623" frameX="-218" frameY="-365" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun circ0000" x="1322" y="0" width="695" height="804" frameX="-151" frameY="-245" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun ass0001" x="2708" y="0" width="678" height="625" frameX="-217" frameY="-364" frameWidth="959" frameHeight="1121" />
+<SubTexture name="Crumb_Gun circ0001" x="0" y="898" width="695" height="804" frameX="-151" frameY="-245" frameWidth="959" frameHeight="1121" />
+</TextureAtlas>

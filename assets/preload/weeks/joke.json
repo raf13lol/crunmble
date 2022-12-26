@@ -1,0 +1,68 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Magenta",
+			"magenta",
+			[
+				200,
+				112,
+				235
+			]
+		],
+		[
+			"Weel X Crumb Sipping Smal",
+			"trip",
+			[
+				34,
+				177,
+				76
+			]
+		],
+		[
+			"Screwed Crumb",
+			"crubmscrewed",
+			[
+				34,
+				177,
+				76
+			]
+		],
+		[
+			"Redacted",
+			"redact",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Ghandi",
+			"ghandi",
+			[
+				182,
+				132,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "jokesongs"
+}

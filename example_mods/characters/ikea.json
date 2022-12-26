@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-242,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "ikea left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "ikea down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-249,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "ikea up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-241,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "ikea right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-240,
+				-11
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "ikea idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ikea",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

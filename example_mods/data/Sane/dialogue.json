@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Hello pal! My name is monterey! How can i help you in my lovely adobe *abode?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "monterey_dialogue"
+		},
+		{
+			"expression": "Angry",
+			"text": "biddlebedoppop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "pissed",
+			"text": "Your friend is being possessed by an other worldly force and forced to do things he doesn’t want to do?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "monterey_dialogue"
+		},
+		{
+			"expression": "happy",
+			"text": "Sounds like my friend grape is at it again haha, she’s such a jokester!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "monterey_dialogue"
+		},
+		{
+			"expression": "pissed",
+			"text": "boi your friend is literally enslaving people",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "happy",
+			"text": "For the funny!",
+			"boxState": "normal",
+			"portrait": "monterey_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Still slavery.",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.0399999999999999,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Still funny!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "monterey_dialogue"
+		}
+	]
+}

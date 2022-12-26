@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boyfend_mad.png"><SubTexture name="Boyfend_mad miss_left0000" x="544" y="1952" width="486" height="610" frameX="-660" frameY="-498" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad miss_left0001" x="1030" y="1952" width="487" height="605" frameX="-679" frameY="-502" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad miss_down0000" x="516" y="2567" width="516" height="501" frameX="-701" frameY="-633" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad miss_down0001" x="0" y="2567" width="516" height="559" frameX="-701" frameY="-575" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad miss_up0000" x="0" y="0" width="540" height="680" frameX="-716" frameY="-459" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad miss_up0001" x="507" y="680" width="538" height="642" frameX="-717" frameY="-496" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad miss_right0000" x="576" y="1324" width="563" height="627" frameX="-723" frameY="-512" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad miss_right0001" x="2079" y="0" width="543" height="618" frameX="-713" frameY="-520" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad idle0000" x="1139" y="1324" width="574" height="618" frameX="-639" frameY="-522" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad idle0001" x="2622" y="1170" width="569" height="578" frameX="-641" frameY="-563" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad idle0002" x="2622" y="0" width="569" height="589" frameX="-641" frameY="-552" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad idle0003" x="1517" y="1952" width="572" height="602" frameX="-637" frameY="-538" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad idle0004" x="0" y="1324" width="576" height="628" frameX="-637" frameY="-513" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad left0000" x="1554" y="634" width="489" height="629" frameX="-683" frameY="-512" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad left0001" x="1554" y="0" width="525" height="634" frameX="-648" frameY="-507" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad left0002" x="1045" y="680" width="508" height="640" frameX="-700" frameY="-501" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad down0000" x="2622" y="1748" width="521" height="573" frameX="-692" frameY="-568" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad down0001" x="2622" y="589" width="515" height="581" frameX="-690" frameY="-580" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad down0002" x="2089" y="1952" width="505" height="598" frameX="-701" frameY="-543" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad up0000" x="1044" y="0" width="510" height="650" frameX="-715" frameY="-491" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad up0001" x="540" y="0" width="504" height="661" frameX="-718" frameY="-480" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad up0002" x="0" y="680" width="507" height="644" frameX="-705" frameY="-497" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad right0000" x="2079" y="1234" width="531" height="615" frameX="-705" frameY="-526" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad right0001" x="0" y="1952" width="544" height="615" frameX="-709" frameY="-526" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Boyfend_mad right0002" x="2079" y="618" width="512" height="616" frameX="-702" frameY="-525" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

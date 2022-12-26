@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheese_dialogue",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "oh hey, what the hell are you doing here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bbop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheese_dialogue",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "I'm not going to rap with you shut up."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bopo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheese_dialogue",
+			"boxState": "angry",
+			"expression": "Guh",
+			"text": "WAIT YOU'LL GIVE ME CASH???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheese_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "finally, the orphanage won't know what hit it"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boi what the hell."
+		}
+	]
+}

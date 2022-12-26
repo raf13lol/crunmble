@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				376,
+				522
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Magenta_HD left"
+		},
+		{
+			"offsets": [
+				435,
+				530
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Magenta_HD idle"
+		},
+		{
+			"offsets": [
+				418,
+				526
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Magenta_HD down"
+		},
+		{
+			"offsets": [
+				435,
+				529
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Magenta_HD up"
+		},
+		{
+			"offsets": [
+				460,
+				530
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Magenta_HD right"
+		},
+		{
+			"offsets": [
+				420,
+				530
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "Yeah",
+			"indices": [],
+			"name": "Magenta_HD ya"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Magenta_HD",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "magentahd",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		-130,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

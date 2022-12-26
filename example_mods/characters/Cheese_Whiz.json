@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				550
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cheese_Whiz idle"
+		},
+		{
+			"offsets": [
+				0,
+				511
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cheese_Whiz down"
+		},
+		{
+			"offsets": [
+				60,
+				552
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cheese_Whiz right"
+		},
+		{
+			"offsets": [
+				-2,
+				608
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cheese_Whiz up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				550
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cheese_Whiz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				261,
+				650
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 14,
+			"name": "Cheese_Whiz awh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				300
+			],
+			"anim": "singDOWNmiss",
+			"fps": 14,
+			"name": "Cheese_Whiz LMAO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				500
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Cheese_Whiz whar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				570
+			],
+			"anim": "singUPmiss",
+			"fps": 14,
+			"name": "Cheese_Whiz CHEESE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Cheese_Whiz",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-chee",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		160,
+		26
+	],
+	"camera_position": [
+		140,
+		-560
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "Point",
+			"text": "Who hell are you?",
+			"boxState": "normal",
+			"portrait": "crumb_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Beep be bopbo",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Smug",
+			"text": "You wan sing?",
+			"boxState": "normal",
+			"portrait": "crumb_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Boop",
+			"boxState": "normal",
+			"portrait": "boi_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fuck you",
+			"text": "No fuk off",
+			"boxState": "normal",
+			"portrait": "crumb_dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "your a bully :(",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue"
+		},
+		{
+			"expression": "fuck you",
+			"text": "i don't care lmao",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "crumb_dialogue"
+		}
+	]
+}

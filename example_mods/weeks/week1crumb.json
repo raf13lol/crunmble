@@ -1,0 +1,59 @@
+{
+	"storyName": "he's going crazy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "crumb",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Granule",
+			"icon-crumb",
+			[
+				34,
+				177,
+				76
+			]
+		],
+		[
+			"Ambulant",
+			"weel",
+			[
+				0,
+				162,
+				232
+			]
+		],
+		[
+			"Tripped",
+			"trip",
+			[
+				237,
+				28,
+				36
+			]
+		],
+		[
+			"Cheesefries",
+			"cheese",
+			[
+				34,
+				177,
+				76
+			]
+		]
+	],
+	"weekCharacters": [
+		"crumb",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "crumb"
+}

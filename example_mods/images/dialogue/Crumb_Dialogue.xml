@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crumb_Dialogue.png"><SubTexture name="Crumb_Dialogue Crumb_Point0000" x="671" y="664" width="359" height="249" frameX="-15" frameY="-89" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue Crumb_Point0001" x="357" y="332" width="358" height="254" frameX="-14" frameY="-84" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue Crumb_Point0002" x="0" y="664" width="359" height="256" frameX="-12" frameY="-82" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue Crumb_Point0003" x="357" y="332" width="358" height="254" frameX="-14" frameY="-84" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue Crumb_Smug0000" x="1079" y="0" width="307" height="249" frameX="-15" frameY="-89" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue Crumb_Smug0001" x="359" y="664" width="312" height="253" frameX="-13" frameY="-85" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue Crumb_Smug0002" x="715" y="332" width="315" height="257" frameX="-10" frameY="-81" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue Crumb_Smug0003" x="359" y="664" width="312" height="253" frameX="-13" frameY="-85" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue fuck you0000" x="0" y="0" width="364" height="332" frameX="-30" frameY="-21" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue fuck you0001" x="364" y="0" width="351" height="332" frameX="-30" frameY="-20" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue fuck you0002" x="0" y="332" width="357" height="332" frameX="-30" frameY="-31" frameWidth="408" frameHeight="419" />
+<SubTexture name="Crumb_Dialogue fuck you0003" x="715" y="0" width="364" height="332" frameX="-30" frameY="-28" frameWidth="408" frameHeight="419" />
+</TextureAtlas>

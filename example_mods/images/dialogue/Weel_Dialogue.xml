@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Weel_Dialogue.png"><SubTexture name="Weel_Dialogue Weel_Huh0000" x="0" y="0" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+<SubTexture name="Weel_Dialogue Weel_Huh0001" x="278" y="0" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+<SubTexture name="Weel_Dialogue Weel_Huh0002" x="556" y="0" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+<SubTexture name="Weel_Dialogue Weel_Huh0003" x="278" y="0" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+<SubTexture name="Weel_Dialogue Weel_Happi0000" x="0" y="360" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+<SubTexture name="Weel_Dialogue Weel_Happi0001" x="278" y="360" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+<SubTexture name="Weel_Dialogue Weel_Happi0002" x="556" y="360" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+<SubTexture name="Weel_Dialogue Weel_Happi0003" x="278" y="360" width="278" height="360" frameX="-20" frameY="-26" frameWidth="408" frameHeight="419" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Weel.png"><SubTexture name="Weel idle0000" x="144" y="0" width="146" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel idle0001" x="290" y="0" width="156" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel idle0002" x="0" y="179" width="149" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel idle0003" x="149" y="179" width="147" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel idle0004" x="296" y="179" width="144" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel left0000" x="446" y="0" width="144" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel left0001" x="446" y="176" width="144" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel down0000" x="0" y="355" width="153" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel down0001" x="153" y="355" width="146" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel up0000" x="0" y="0" width="144" height="179" frameX="-823" frameY="-634" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel up0001" x="299" y="355" width="147" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel right0000" x="590" y="0" width="150" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Weel right0001" x="590" y="176" width="146" height="176" frameX="-823" frameY="-637" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

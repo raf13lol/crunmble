@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "cheese :)"
+		},
+		{
+			"offsets": [
+				0,
+				32
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cheese hey apple"
+		},
+		{
+			"offsets": [
+				-2,
+				28
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cheese AAA"
+		},
+		{
+			"offsets": [
+				-2,
+				30
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cheese eee"
+		},
+		{
+			"offsets": [
+				0,
+				31
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cheese OOO"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cheese",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-cheese",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		30,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

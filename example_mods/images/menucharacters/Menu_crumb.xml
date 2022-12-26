@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crumb_week.png"><SubTexture name="crumb_week crumb0000" x="124" y="138" width="123" height="119" frameX="-37" frameY="-169" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0001" x="0" y="259" width="155" height="110" frameX="-25" frameY="-179" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0002" x="124" y="138" width="123" height="119" frameX="-37" frameY="-169" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0003" x="0" y="259" width="155" height="110" frameX="-25" frameY="-179" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0004" x="124" y="138" width="123" height="119" frameX="-37" frameY="-169" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0005" x="0" y="259" width="155" height="110" frameX="-25" frameY="-179" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0006" x="124" y="138" width="123" height="119" frameX="-37" frameY="-169" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0007" x="0" y="259" width="155" height="110" frameX="-25" frameY="-179" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0008" x="252" y="0" width="131" height="125" frameX="-35" frameY="-164" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0009" x="0" y="138" width="124" height="121" frameX="-35" frameY="-168" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0010" x="252" y="0" width="131" height="125" frameX="-35" frameY="-164" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0011" x="0" y="138" width="124" height="121" frameX="-35" frameY="-168" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0012" x="252" y="0" width="131" height="125" frameX="-35" frameY="-164" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0013" x="0" y="138" width="124" height="121" frameX="-35" frameY="-168" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0014" x="252" y="0" width="131" height="125" frameX="-35" frameY="-164" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0015" x="0" y="138" width="124" height="121" frameX="-35" frameY="-168" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0016" x="0" y="0" width="126" height="138" frameX="-42" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0017" x="126" y="0" width="126" height="138" frameX="-39" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0018" x="155" y="259" width="145" height="85" frameX="-19" frameY="-205" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0019" x="383" y="0" width="145" height="85" frameX="-43" frameY="-205" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0020" x="0" y="0" width="126" height="138" frameX="-42" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0021" x="126" y="0" width="126" height="138" frameX="-39" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0022" x="155" y="259" width="145" height="85" frameX="-19" frameY="-205" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0023" x="383" y="0" width="145" height="85" frameX="-43" frameY="-205" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0024" x="0" y="0" width="126" height="138" frameX="-42" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0025" x="126" y="0" width="126" height="138" frameX="-39" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0026" x="155" y="259" width="145" height="85" frameX="-19" frameY="-205" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0027" x="383" y="0" width="145" height="85" frameX="-43" frameY="-205" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0028" x="0" y="0" width="126" height="138" frameX="-42" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0029" x="126" y="0" width="126" height="138" frameX="-39" frameY="-151" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0030" x="155" y="259" width="145" height="85" frameX="-19" frameY="-205" frameWidth="207" frameHeight="368" />
+<SubTexture name="crumb_week crumb0031" x="383" y="0" width="145" height="85" frameX="-43" frameY="-205" frameWidth="207" frameHeight="368" />
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Weel_Playable idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Weel_Playable left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Weel_Playable down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Weel_Playable up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Weel_Playable right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				612,
+				350
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Weel_Playable Die",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				616,
+				349
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Weel_Playable LOL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				613,
+				347
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Weel_Playable ROFL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				350
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Weel_Playable LMAO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				393,
+				476
+			],
+			"anim": "stare",
+			"fps": 24,
+			"name": "Weel_Playable Nyaw",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Weel_Playable",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "weel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		800,
+		-460
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

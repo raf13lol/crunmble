@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				80
+			],
+			"idle_offsets": [
+				0,
+				80
+			],
+			"loop_name": "Boi_Dialogue talk",
+			"idle_name": "Boi_Dialogue talk0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				80
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				80
+			],
+			"loop_name": "Boi_Dialogue scared",
+			"idle_name": "Boi_Dialogue shiver me timbers"
+		},
+		{
+			"loop_name": "Boi_Dialogue mad",
+			"idle_offsets": [
+				0,
+				80
+			],
+			"idle_name": "Boi_Dialogue mad0000",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				80
+			]
+		}
+	],
+	"image": "Boi_Dialogue"
+}

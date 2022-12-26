@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "angry",
+			"expression": "agitated",
+			"text": "OK THATS THE LAST STRAW, GENUINELY GOING TO KILL YOU NOW. SAY GOODBYE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "wai wai wait."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "have you considered peace?\r\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "mozzarella_dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_Dialogue",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "yes I have in fact!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mozzarella_dialogue",
+			"boxState": "angry",
+			"expression": "agitated",
+			"text": "THE PEACE I’LL GET SCRAPPING YOUR BRAINS OFF THE WALLS!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_Dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bros edgy as hell"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "crumb_dialogue",
+			"boxState": "normal",
+			"expression": "Smug",
+			"text": "i knwo rite???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_dialogue",
+			"boxState": "normal",
+			"expression": "agitated",
+			"text": "I’m a literal god of death if I wasn’t edgy i wouldnt fit the stereotype."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OH that makes sense."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "i mean beep bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i’ve been talking this entire time haven’t i"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Mozzarella_dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "surprising nobody, yes you have."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boi_dialogue",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "fuck."
+		}
+	]
+}

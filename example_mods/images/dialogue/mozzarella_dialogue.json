@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-51,
+				59
+			],
+			"idle_offsets": [
+				-51,
+				59
+			],
+			"loop_name": "Mozzarella_Dialogue talk",
+			"idle_name": "Mozzarella_Dialogue talk0000"
+		},
+		{
+			"loop_name": "Mozzarella_Dialogue agitated",
+			"idle_offsets": [
+				-51,
+				59
+			],
+			"idle_name": "Mozzarella_Dialogue agitated0000",
+			"anim": "agitated",
+			"loop_offsets": [
+				-51,
+				59
+			]
+		},
+		{
+			"loop_name": "Mozzarella_Dialogue idle",
+			"idle_offsets": [
+				-51,
+				59
+			],
+			"idle_name": "Mozzarella_Dialogue idle",
+			"anim": "stare",
+			"loop_offsets": [
+				-51,
+				60
+			]
+		},
+		{
+			"loop_name": "Mozzarella_Dialogue Ah",
+			"idle_offsets": [
+				-51,
+				59
+			],
+			"idle_name": "Mozzarella_Dialogue grr",
+			"anim": "pissed",
+			"loop_offsets": [
+				-51,
+				59
+			]
+		}
+	],
+	"image": "Mozzarella_Dialogue"
+}

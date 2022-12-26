@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Grape_Dialogue.png"><SubTexture name="Grape_Dialogue speak0000" x="615" y="538" width="299" height="521" frameX="-66" frameY="-113" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue speak0001" x="0" y="538" width="295" height="527" frameX="-71" frameY="-108" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue speak0002" x="609" y="0" width="286" height="532" frameX="-78" frameY="-103" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue speak0003" x="0" y="538" width="295" height="527" frameX="-71" frameY="-108" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue smug0000" x="1190" y="0" width="317" height="521" frameX="-66" frameY="-113" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue smug0001" x="295" y="538" width="320" height="526" frameX="-72" frameY="-109" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue smug0002" x="287" y="0" width="322" height="535" frameX="-76" frameY="-100" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue smug0003" x="295" y="538" width="320" height="526" frameX="-72" frameY="-109" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue bruh0000" x="1190" y="521" width="299" height="521" frameX="-66" frameY="-113" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue bruh0001" x="895" y="0" width="295" height="529" frameX="-72" frameY="-106" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue bruh0002" x="0" y="0" width="287" height="538" frameX="-78" frameY="-97" frameWidth="425" frameHeight="635" />
+<SubTexture name="Grape_Dialogue bruh0003" x="1190" y="521" width="299" height="521" frameX="-66" frameY="-113" frameWidth="425" frameHeight="635" />
+</TextureAtlas>

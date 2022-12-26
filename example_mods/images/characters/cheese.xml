@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cheese.png"><SubTexture name="cheese :)0000" x="104" y="232" width="108" height="221" frameX="-174" frameY="-216" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese :)0001" x="337" y="232" width="120" height="220" frameX="-167" frameY="-220" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese :)0002" x="0" y="456" width="129" height="217" frameX="-162" frameY="-223" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese :)0003" x="296" y="456" width="138" height="213" frameX="-158" frameY="-228" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese :)0004" x="434" y="456" width="131" height="213" frameX="-163" frameY="-227" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese :)0005" x="212" y="232" width="125" height="221" frameX="-166" frameY="-221" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese eee0000" x="437" y="0" width="124" height="226" frameX="-170" frameY="-214" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese eee0001" x="437" y="0" width="124" height="226" frameX="-170" frameY="-214" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese eee0002" x="103" y="0" width="128" height="231" frameX="-167" frameY="-212" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese eee0003" x="561" y="0" width="120" height="219" frameX="-173" frameY="-217" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese OOO0000" x="681" y="397" width="134" height="183" frameX="-161" frameY="-244" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese OOO0001" x="855" y="420" width="137" height="189" frameX="-158" frameY="-240" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese OOO0002" x="681" y="212" width="137" height="185" frameX="-158" frameY="-244" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese OOO0003" x="0" y="673" width="137" height="183" frameX="-160" frameY="-246" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese AAA0000" x="334" y="0" width="103" height="227" frameX="-175" frameY="-205" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese AAA0001" x="231" y="0" width="103" height="229" frameX="-174" frameY="-202" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese AAA0002" x="0" y="0" width="103" height="232" frameX="-171" frameY="-197" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese AAA0003" x="0" y="232" width="104" height="224" frameX="-174" frameY="-205" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese hey apple0000" x="129" y="456" width="167" height="216" frameX="-165" frameY="-223" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese hey apple0001" x="681" y="0" width="174" height="212" frameX="-164" frameY="-223" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese hey apple0002" x="855" y="0" width="181" height="210" frameX="-164" frameY="-223" frameWidth="654" frameHeight="708" />
+<SubTexture name="cheese hey apple0003" x="855" y="210" width="171" height="210" frameX="-163" frameY="-227" frameWidth="654" frameHeight="708" />
+</TextureAtlas>

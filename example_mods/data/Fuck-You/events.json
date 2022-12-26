@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				5850,
+				[
+					[
+						"Change Character",
+						"bf",
+						"MINI_BF_angy"
+					]
+				]
+			],
+			[
+				36900,
+				[
+					[
+						"Change Character",
+						"bf",
+						"MINI_BF"
+					]
+				]
+			]
+		]
+	}
+}

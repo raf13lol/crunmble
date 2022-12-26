@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boi_Dialogue.png"><SubTexture name="Boi_Dialogue talk0000" x="335" y="840" width="333" height="409" frameX="-68" frameY="-123" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue talk0001" x="0" y="422" width="326" height="418" frameX="-73" frameY="-115" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue talk0002" x="0" y="0" width="322" height="422" frameX="-77" frameY="-111" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue talk0003" x="0" y="422" width="326" height="418" frameX="-73" frameY="-115" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue scared0000" x="668" y="840" width="333" height="409" frameX="-68" frameY="-123" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue scared0001" x="326" y="422" width="326" height="418" frameX="-73" frameY="-115" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue scared0002" x="322" y="0" width="322" height="422" frameX="-77" frameY="-111" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue scared0003" x="326" y="422" width="326" height="418" frameX="-73" frameY="-115" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue shiver me timbers0000" x="1292" y="0" width="333" height="409" frameX="-68" frameY="-123" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue shiver me timbers0001" x="1625" y="818" width="331" height="407" frameX="-68" frameY="-125" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue shiver me timbers0002" x="1625" y="0" width="336" height="409" frameX="-68" frameY="-123" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue shiver me timbers0003" x="0" y="840" width="335" height="411" frameX="-68" frameY="-121" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue mad0000" x="1625" y="409" width="333" height="409" frameX="-68" frameY="-123" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue mad0001" x="966" y="0" width="326" height="418" frameX="-73" frameY="-115" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue mad0002" x="644" y="0" width="322" height="422" frameX="-77" frameY="-111" frameWidth="425" frameHeight="635" />
+<SubTexture name="Boi_Dialogue mad0003" x="966" y="0" width="326" height="418" frameX="-73" frameY="-115" frameWidth="425" frameHeight="635" />
+</TextureAtlas>

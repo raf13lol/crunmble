@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				75428.5714285715,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nomorebf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"gangongphase2"
+					]
+				]
+			]
+		]
+	}
+}

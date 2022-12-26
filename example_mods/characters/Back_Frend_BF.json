@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				855,
+				800
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF_BACK_OwO idle"
+		},
+		{
+			"offsets": [
+				854,
+				801
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF_BACK_OwO down"
+		},
+		{
+			"offsets": [
+				854,
+				801
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF_BACK_OwO up"
+		},
+		{
+			"offsets": [
+				858,
+				799
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF_BACK_OwO right"
+		},
+		{
+			"offsets": [
+				854,
+				799
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF_BACK_OwO left"
+		},
+		{
+			"offsets": [
+				864,
+				801
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF_BACK_OwO sqa"
+		},
+		{
+			"offsets": [
+				856,
+				800
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF_BACK_OwO rou"
+		},
+		{
+			"offsets": [
+				859,
+				776
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF_BACK_OwO tri"
+		},
+		{
+			"offsets": [
+				836,
+				792
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF_BACK_OwO bom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_BACK_OwO",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "beef",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		600,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

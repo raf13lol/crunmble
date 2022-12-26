@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Monterey.png"><SubTexture name="Monterey idle0000" x="485" y="0" width="120" height="262" frameX="-239" frameY="-712" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey idle0001" x="120" y="0" width="121" height="275" frameX="-237" frameY="-706" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey idle0002" x="0" y="0" width="120" height="288" frameX="-236" frameY="-700" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey idle0003" x="0" y="549" width="122" height="237" frameX="-241" frameY="-734" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey idle0004" x="776" y="244" width="121" height="242" frameX="-241" frameY="-723" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey left0000" x="396" y="288" width="135" height="256" frameX="-234" frameY="-718" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey left0001" x="0" y="288" width="126" height="261" frameX="-238" frameY="-716" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey left0002" x="248" y="288" width="148" height="258" frameX="-219" frameY="-714" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey down0000" x="389" y="549" width="151" height="211" frameX="-222" frameY="-752" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey down0001" x="248" y="549" width="141" height="216" frameX="-227" frameY="-746" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey down0002" x="122" y="549" width="126" height="223" frameX="-237" frameY="-739" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey up0000" x="363" y="0" width="122" height="268" frameX="-242" frameY="-709" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey up0001" x="241" y="0" width="122" height="270" frameX="-244" frameY="-704" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey up0002" x="126" y="288" width="122" height="261" frameX="-244" frameY="-709" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey right0000" x="776" y="0" width="182" height="244" frameX="-202" frameY="-730" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey right0001" x="605" y="249" width="169" height="242" frameX="-203" frameY="-729" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Monterey right0002" x="605" y="0" width="171" height="249" frameX="-201" frameY="-732" frameWidth="959" frameHeight="1586" />
+</TextureAtlas>

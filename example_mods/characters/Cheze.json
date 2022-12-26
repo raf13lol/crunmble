@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-475,
+				210
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cheze idle"
+		},
+		{
+			"offsets": [
+				-475,
+				210
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cheze left"
+		},
+		{
+			"offsets": [
+				-474,
+				209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cheze down"
+		},
+		{
+			"offsets": [
+				-470,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cheze up"
+		},
+		{
+			"offsets": [
+				-484,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cheze right"
+		},
+		{
+			"offsets": [
+				-478,
+				210
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "funny",
+			"indices": [],
+			"name": "Cheze oh fuck"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cheze",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cheese",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		-90,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 3.3
+}

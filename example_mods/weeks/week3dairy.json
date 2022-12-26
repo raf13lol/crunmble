@@ -1,0 +1,50 @@
+{
+	"storyName": "this a fr on god situation",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "dairy",
+	"weekBefore": "weekexo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"crummy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dissolution",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"euthanasia",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

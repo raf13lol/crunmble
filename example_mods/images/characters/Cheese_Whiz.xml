@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cheese_Whiz.png"><SubTexture name="Cheese_Whiz idle0000" x="1765" y="0" width="461" height="956" frameX="-282" frameY="-396" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz idle0001" x="1407" y="1033" width="471" height="952" frameX="-263" frameY="-421" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz idle0002" x="2226" y="0" width="468" height="952" frameX="-266" frameY="-414" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz idle0003" x="2226" y="952" width="464" height="948" frameX="-271" frameY="-408" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz idle0004" x="0" y="1033" width="452" height="955" frameX="-284" frameY="-389" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz idle0005" x="452" y="1033" width="451" height="955" frameX="-286" frameY="-383" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz down0000" x="0" y="2922" width="491" height="883" frameX="-220" frameY="-513" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz down0001" x="1517" y="1988" width="495" height="919" frameX="-211" frameY="-493" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz down0002" x="903" y="1033" width="504" height="955" frameX="-196" frameY="-479" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz right0000" x="2756" y="1988" width="551" height="913" frameX="-243" frameY="-476" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz right0001" x="3469" y="913" width="559" height="898" frameX="-251" frameY="-462" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz right0002" x="3469" y="1811" width="577" height="889" frameX="-256" frameY="-451" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz left0000" x="2694" y="0" width="775" height="945" frameX="-102" frameY="-480" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz left0001" x="744" y="1988" width="773" height="932" frameX="-87" frameY="-475" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz left0002" x="0" y="1988" width="744" height="934" frameX="-95" frameY="-457" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz up0000" x="418" y="0" width="443" height="997" frameX="-288" frameY="-429" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz up0001" x="861" y="0" width="441" height="991" frameX="-292" frameY="-412" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz up0002" x="2694" y="945" width="446" height="935" frameX="-273" frameY="-450" frameWidth="959" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz LMAO0000" x="2181" y="2922" width="833" height="590" frameX="-374" frameY="-625" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz LMAO0001" x="1400" y="2922" width="781" height="640" frameX="-395" frameY="-576" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz whar0000" x="2012" y="1988" width="744" height="915" frameX="-326" frameY="-442" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz whar0001" x="3469" y="0" width="645" height="913" frameX="-424" frameY="-443" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz CHEESE0000" x="0" y="0" width="418" height="1033" frameX="-592" frameY="-321" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz CHEESE0001" x="1302" y="0" width="463" height="958" frameX="-563" frameY="-395" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz awh0000" x="491" y="2922" width="522" height="729" frameX="-601" frameY="-715" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Whiz awh0001" x="1013" y="2922" width="387" height="727" frameX="-602" frameY="-716" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>
