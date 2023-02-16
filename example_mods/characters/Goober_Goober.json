@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-92,
 				-394
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-93,
 				-388
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 24,
+			"name": "up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-88,
 				-392
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 20,
+			"name": "left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-105,
 				-390
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 20,
+			"name": "down",
+			"indices": []
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-97,
 				-390
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/goober2",
 	"position": [
-		0,
-		0
+		270,
+		40
 	],
 	"healthicon": "gooblin",
 	"flip_x": false,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		90,
-		150
+		270
 	],
 	"sing_duration": 4,
-	"scale": 2.2
+	"scale": 1.8
 }

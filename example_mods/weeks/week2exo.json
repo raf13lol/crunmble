@@ -3,7 +3,7 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "exo",
-	"weekBefore": "weekcrumb",
+	"weekBefore": "week1crumb",
 	"freeplayColor": [
 		146,
 		113,

@@ -1,106 +1,106 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				555,
 				600
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 15,
-			"name": "Boyfend idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Boyfend idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				554,
 				601
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boyfend down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				555,
 				595
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boyfend up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				551,
 				598
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boyfend right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				557,
 				599
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boyfend left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				553,
 				594
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend miss_left",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Boyfend miss_left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				556,
 				600
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend miss_down",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Boyfend miss_down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				554,
 				594
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend miss_up",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Boyfend miss_up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				556,
 				592
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend miss_right",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Boyfend miss_right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Boyfend",
 	"position": [
 		0,

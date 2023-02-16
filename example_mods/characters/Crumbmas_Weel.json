@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				555,
+				220
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "idle",
+			"loop": false,
+			"name": "Crumbmas_Weel idle"
+		},
+		{
+			"offsets": [
+				555,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Crumbmas_Weel left"
+		},
+		{
+			"offsets": [
+				555,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Crumbmas_Weel down"
+		},
+		{
+			"offsets": [
+				555,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Crumbmas_Weel up"
+		},
+		{
+			"offsets": [
+				555,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Crumbmas_Weel right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Crumbmas_Weel",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "weel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		-190,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

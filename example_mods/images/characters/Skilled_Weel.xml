@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Skilled_Weel.png"><SubTexture name="Skilled_Weel idle0000" x="145" y="0" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel idle0001" x="290" y="0" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel idle0002" x="0" y="181" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel idle0003" x="145" y="181" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel idle0004" x="290" y="181" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel left0000" x="435" y="0" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel left0001" x="435" y="177" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel left0002" x="0" y="358" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel down0000" x="145" y="358" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel down0001" x="290" y="358" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel down0002" x="435" y="358" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel up0000" x="580" y="0" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel up0001" x="0" y="0" width="145" height="181" frameX="-829" frameY="-794" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel up0002" x="580" y="177" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel right0000" x="580" y="354" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel right0001" x="0" y="535" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Skilled_Weel right0002" x="145" y="535" width="145" height="177" frameX="-829" frameY="-798" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

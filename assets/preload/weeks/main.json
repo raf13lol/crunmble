@@ -1,16 +1,20 @@
 {
 	"storyName": "he's going crazy",
 	"difficulties": "Hard",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "crumb",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"crumb",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Granule",
@@ -110,13 +114,63 @@
 				0,
 				0
 			]
+		],
+		[
+			"jingle balls",
+			"Crumbmas",
+			[
+				255,
+				0,
+				73
+			]
+		],
+		[
+			"mistletoe",
+			"Crumbmas",
+			[
+				255,
+				0,
+				73
+			]
+		],
+		[
+			"deceitful",
+			"krampmoz",
+			[
+				86,
+				20,
+				20
+			]
+		],
+		[
+			"beta",
+			"betacrumb",
+			[
+				0,
+				155,
+				0
+			]
+		],
+		[
+			"generation2",
+			"betacrumb",
+			[
+				0,
+				155,
+				0
+			]
+		],
+		[
+			"diminutive",
+			"betacrumb",
+			[
+				0,
+				155,
+				0
+			]
 		]
 	],
-	"weekCharacters": [
-		"crumb",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "crumb"
+	"hideStoryMode": true,
+	"weekName": "crumb",
+	"hiddenUntilUnlocked": false
 }

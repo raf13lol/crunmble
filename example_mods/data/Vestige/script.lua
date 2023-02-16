@@ -22,9 +22,3 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		startDialogue('dialogue', 'Vestige');
 	end
 end
-
-
-function onUpdate()
-	setProperty('timeBar.color', getColorFromHex('b5e61d'))
-    setProperty('timeBarBG.color', getColorFromHex('b5e61d'))
-end

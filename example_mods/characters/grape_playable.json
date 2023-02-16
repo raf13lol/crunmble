@@ -1,106 +1,106 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				49,
 				131
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "grape_player idle"
+			"fps": 24,
+			"name": "grape_player idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				40,
 				131
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "grape_player left"
+			"fps": 24,
+			"name": "grape_player left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				60,
 				111
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "grape_player down"
+			"fps": 24,
+			"name": "grape_player down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				60,
 				221
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "grape_player up"
+			"fps": 24,
+			"name": "grape_player up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				60,
 				122
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "grape_player right"
+			"fps": 24,
+			"name": "grape_player right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				50,
 				130
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "grape_player stupidleft"
+			"fps": 24,
+			"name": "grape_player stupidleft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				70,
 				150
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "grape_player stupiddown"
+			"fps": 24,
+			"name": "grape_player stupiddown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				40,
 				190
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
-			"name": "grape_player stupidup"
+			"fps": 24,
+			"name": "grape_player stupidup",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				20,
 				140
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "grape_player stupidright"
+			"fps": 24,
+			"name": "grape_player stupidright",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/grape_player",
 	"position": [
 		-70,

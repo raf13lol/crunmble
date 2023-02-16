@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				516,
+				640
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "Black_Imposter idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				513,
+				640
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "Black_Imposter left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				525,
+				637
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "Black_Imposter down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				516,
+				640
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "Black_Imposter up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				631,
+				639
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "Black_Imposter right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Black_Imposter",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		21,
+		74
+	],
+	"camera_position": [
+		80,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

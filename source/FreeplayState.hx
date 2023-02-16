@@ -29,11 +29,12 @@ class FreeplayState extends MusicBeatState
 
 	var selector:FlxText;
 	var curSelected:Int = 0;
-	var curDifficulty:Int = 1;
+	var curDifficulty:Int = 0;
 
 	var bg:FlxSprite;
 	var scoreBG:FlxSprite;
 	var scoreText:FlxText;
+	var diffText:FlxText;
 	var lerpScore:Int = 0;
 	var lerpRating:Float = 0;
 	var intendedScore:Int = 0;
@@ -48,6 +49,7 @@ class FreeplayState extends MusicBeatState
 
 	private var AllPossibleSongs:Array<String> = ["main", "extras", "joke", "challenge", "old", "crumb_mixes"];
 	private var niceFormattedCategories:Array<String> = ["Main", "Extras", "Joke", "Challenge", "Old", "Crumb Mixes"];
+	private var skillIssueSongs:Array<String> = ["granule", "ambulant", "tripped", "cheesefries"];
 
 	private var CurrentPack:Int = 0;
 
@@ -165,14 +167,19 @@ class FreeplayState extends MusicBeatState
 		scoreText.setFormat(Paths.font("comicsanslol.ttf"), 32, FlxColor.WHITE, RIGHT);
 		scoreText.x = 780;
 
-		scoreBG = new FlxSprite(scoreText.x - 13, 0).makeGraphic(520, 45, 0xFF000000);
-		scoreBG.alpha = 0.5;
+		scoreBG = new FlxSprite(scoreText.x - 13, 0).makeGraphic(520, 66, 0xFF000000);
+		scoreBG.alpha = 0.6;
+		diffText = new FlxText(scoreText.x + 180, scoreText.y + 40, 0, "", 24);
+		diffText.font = scoreText.font;
+		diffText.autoSize = true;
+		diffText.alignment = CENTER;
 		add(scoreBG);
 		add(scoreText);
+		add(diffText);
+
 		add(bottomInfoTextBG);
 		add(bottomInfoText);
 		changeSelection();
-		changeDiff();
 
 		// var swag:Alphabet = new Alphabet(1, 0, "swag");
 	}
@@ -307,11 +314,20 @@ class FreeplayState extends MusicBeatState
 		scoreText.text = 'PERSONAL BEST: ' + lerpScore + ' (' + Math.floor(lerpRating * 100) + '%)';
 		var upP = controls.UI_UP_P;
 		var downP = controls.UI_DOWN_P;
+		var leftP = controls.UI_LEFT_P;
+		var rightP = controls.UI_RIGHT_P;
 		var accepted = controls.ACCEPT;
 		var space = FlxG.keys.justPressed.SPACE;
 		var ctrl = FlxG.keys.justPressed.CONTROL;
-		var fuckyou = FlxG.keys.justPressed.SEVEN;
 
+		if (leftP)
+		{
+			changeDiff(-1);
+		}
+		if (rightP)
+		{
+			changeDiff(1);
+		}
 		if (upP)
 		{
 			changeSelection(-1);
@@ -330,30 +346,6 @@ class FreeplayState extends MusicBeatState
 		{
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			MusicBeatState.switchState(new FreeplayState());
-
-			if (accepted)
-			{
-				var poop:String = Highscore.formatSong(songs[curSelected].songName.toLowerCase(), curDifficulty);
-
-				trace(poop);
-
-				PlayState.SONG = Song.loadFromJson(poop, songs[curSelected].songName.toLowerCase());
-				PlayState.isStoryMode = false;
-				PlayState.storyDifficulty = curDifficulty;
-			}
-		}
-		if (fuckyou)
-		{
-			FlxG.sound.music.volume = 0;
-			PlayState.SONG = Song.loadFromJson("numbskull-hard", "numbskull"); // you dun fucked up again
-			FlxG.save.data.oppositionFound = true;
-
-			new FlxTimer().start(0.25, function(tmr:FlxTimer)
-			{
-				LoadingState.loadAndSwitchState(new PlayState());
-				FlxG.sound.music.volume = 0;
-				FreeplayState.destroyFreeplayVocals();
-			});
 		}
 
 		if (space && instPlaying != curSelected)
@@ -384,10 +376,9 @@ class FreeplayState extends MusicBeatState
 			if (!sys.FileSystem.exists(Paths.modsJson(songLowercase + '/' + poop))
 				&& !sys.FileSystem.exists(Paths.json(songLowercase + '/' + poop)))
 			{
-				poop = songLowercase;
-				curDifficulty = 1;
+				poop = songLowercase + "-hard";
+				curDifficulty = 0;
 			}
-			trace(poop);
 
 			PlayState.SONG = Song.loadFromJson(poop, songLowercase);
 			PlayState.isStoryMode = false;
@@ -421,18 +412,23 @@ class FreeplayState extends MusicBeatState
 	function changeDiff(change:Int = 0)
 	{
 		curDifficulty += change;
+		if (skillIssueSongs.contains(songs[curSelected].songName.toLowerCase()))
+		{
+			if (curDifficulty < 0) // idk man
+				curDifficulty = 1;
 
-		if (curDifficulty < 0)
-			curDifficulty = 4;
-		if (curDifficulty > 4)
+			if (curDifficulty > 1)
+				curDifficulty = 0;
+		}
+		else
 			curDifficulty = 0;
-
 		#if !switch
 		intendedScore = Highscore.getScore(songs[curSelected].songName, curDifficulty);
 		intendedRating = Highscore.getRating(songs[curSelected].songName, curDifficulty);
 		#end
-
 		PlayState.storyDifficulty = curDifficulty;
+		diffText.text = '< ' + CoolUtil.difficultyString() + ' >';
+		diffText.x = 1010 - diffText.width / 2;
 	}
 
 	function changeSelection(change:Int = 0)
@@ -444,12 +440,6 @@ class FreeplayState extends MusicBeatState
 
 		if (curSelected >= songs.length)
 			curSelected = 0;
-
-		if (curDifficulty < 2) // idk man
-			curDifficulty = 2;
-
-		if (curDifficulty > 2)
-			curDifficulty = 2;
 
 		#if !switch
 		intendedScore = Highscore.getScore(songs[curSelected].songName, curDifficulty);

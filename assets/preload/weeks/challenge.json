@@ -1,7 +1,7 @@
 {
 	"storyName": "this a fr on god situation",
 	"difficulties": "Hard",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "dairy",
 	"weekBefore": "weekexo",
 	"freeplayColor": [
@@ -10,7 +10,7 @@
 		253
 	],
 	"startUnlocked": false,
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"Wrathful Vengeance",

@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				256,
 				571
 			],
-			"loop": true,
-			"fps": 17,
 			"anim": "idle",
-			"indices": [],
-			"name": "Scrumbly idle"
+			"fps": 17,
+			"name": "Scrumbly idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				256,
 				572
 			],
-			"loop": false,
-			"fps": 17,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Scrumbly down"
+			"fps": 17,
+			"name": "Scrumbly down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				255,
 				571
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Scrumbly up"
+			"fps": 20,
+			"name": "Scrumbly up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				257,
 				572
 			],
-			"indices": [],
-			"fps": 17,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Scrumbly right"
+			"fps": 17,
+			"name": "Scrumbly right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				254,
 				571
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Scrumbly left"
+			"fps": 24,
+			"name": "Scrumbly left",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Scrumbly",
 	"position": [
 		0,

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cheese_Better.png"><SubTexture name="Cheese_Better idle0000" x="564" y="0" width="103" height="223" frameX="-611" frameY="-656" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better idle0001" x="0" y="488" width="128" height="216" frameX="-604" frameY="-688" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better idle0002" x="128" y="488" width="126" height="214" frameX="-606" frameY="-685" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better idle0003" x="667" y="0" width="119" height="220" frameX="-610" frameY="-675" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better idle0004" x="339" y="0" width="115" height="229" frameX="-611" frameY="-661" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better idle0005" x="454" y="0" width="110" height="229" frameX="-612" frameY="-658" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better left0000" x="0" y="260" width="169" height="228" frameX="-586" frameY="-656" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better left0001" x="169" y="260" width="172" height="228" frameX="-576" frameY="-653" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better left0002" x="341" y="260" width="174" height="224" frameX="-578" frameY="-658" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better down0000" x="632" y="488" width="152" height="196" frameX="-592" frameY="-704" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better down0001" x="786" y="0" width="166" height="195" frameX="-582" frameY="-716" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better down0002" x="254" y="488" width="159" height="200" frameX="-584" frameY="-705" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better right0000" x="224" y="704" width="228" height="178" frameX="-565" frameY="-699" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better right0001" x="413" y="488" width="219" height="198" frameX="-576" frameY="-675" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better right0002" x="0" y="704" width="224" height="193" frameX="-572" frameY="-682" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better up0000" x="228" y="0" width="111" height="234" frameX="-617" frameY="-642" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better up0001" x="0" y="0" width="113" height="260" frameX="-614" frameY="-629" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Cheese_Better up0002" x="113" y="0" width="115" height="248" frameX="-612" frameY="-635" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

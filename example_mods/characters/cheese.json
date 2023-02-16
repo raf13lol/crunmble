@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				440
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Cheese_Better idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				380,
+				422
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Cheese_Better right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				398,
+				448
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "Cheese_Better up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				408,
+				440
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Cheese_Better left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				431
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Cheese_Better down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Cheese_Better",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-cheese",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		-490,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

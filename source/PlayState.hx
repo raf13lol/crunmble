@@ -390,8 +390,6 @@ class PlayState extends MusicBeatState
 		{
 			switch (songName)
 			{
-				
-				
 				default:
 					curStage = 'stage';
 			}
@@ -550,7 +548,6 @@ class PlayState extends MusicBeatState
 		{
 			switch (curStage)
 			{
-				
 				default:
 					gfVersion = 'gf';
 			}
@@ -565,8 +562,6 @@ class PlayState extends MusicBeatState
 			gf.scrollFactor.set(0.95, 0.95);
 			gfGroup.add(gf);
 			startCharacterLua(gf.curCharacter);
-
-			
 		}
 
 		dad = new Character(0, 0, SONG.player2);
@@ -592,7 +587,6 @@ class PlayState extends MusicBeatState
 			if (gf != null)
 				gf.visible = false;
 		}
-
 
 		var file:String = Paths.json(songName + '/dialogue'); // Checks for json/Psych Engine dialogue
 		if (OpenFlAssets.exists(file))
@@ -651,12 +645,13 @@ class PlayState extends MusicBeatState
 		timeBar = new FlxBar(timeBarBG.x + 4, timeBarBG.y + 4, LEFT_TO_RIGHT, Std.int(timeBarBG.width - 8), Std.int(timeBarBG.height - 8), this,
 			'songPercent', 0, 1);
 		timeBar.scrollFactor.set();
-		//	timeBar.createFilledBar(0xFF000000, 0xFFFFFFFF);
+		timeBar.createFilledBar(0xFF000000, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]));
 		timeBar.numDivisions = 800; // How much lag this causes?? Should i tone it down to idk, 400 or 200?
 		timeBar.alpha = 0;
 		timeBar.visible = showTime;
 		timeBar.screenCenter(X);
-		insert(members.indexOf(timeBarBG), timeBar);
+		add(timeBarBG);
+		add(timeBar);
 		add(timeTxt);
 		timeBarBG.sprTracker = timeBar;
 
@@ -870,7 +865,6 @@ class PlayState extends MusicBeatState
 		{
 			switch (daSong)
 			{
-
 				default:
 					startCountdown();
 			}
@@ -969,9 +963,7 @@ class PlayState extends MusicBeatState
 	{
 		healthBar.createFilledBar(FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]),
 			FlxColor.fromRGB(boyfriend.healthColorArray[0], boyfriend.healthColorArray[1], boyfriend.healthColorArray[2]));
-
-		timeBar.createFilledBar(0xFF121212, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]));
-
+		timeBar.createFilledBar(0xFF000000, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]));
 		healthBar.updateBar();
 		timeBar.updateBar();
 	}
@@ -1363,7 +1355,6 @@ class PlayState extends MusicBeatState
 					antialias = false;
 				}
 
-			
 				switch (swagCounter)
 				{
 					case 0:
@@ -1597,7 +1588,6 @@ class PlayState extends MusicBeatState
 		FlxTween.tween(timeBar, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
 		FlxTween.tween(timeTxt, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
 
-	
 		#if desktop
 		// Updating Discord Rich Presence (with Time Left)
 		DiscordClient.changePresence(detailsText, SONG.song + " (" + storyDifficultyText + ")", iconP2.getCharacter(), true, songLength);
@@ -1658,6 +1648,8 @@ class PlayState extends MusicBeatState
 		{
 		#end
 			var eventsData:Array<Dynamic> = Song.loadFromJson('events', songName).events;
+			if (SONG.events != null && SONG.events.length > 0)
+				eventsData = SONG.events;
 			for (event in eventsData) // Event Notes
 			{
 				for (i in 0...event[1].length)
@@ -1806,7 +1798,6 @@ class PlayState extends MusicBeatState
 
 				var newCharacter:String = event.value2;
 				addCharacterToList(newCharacter, charType);
-
 		}
 
 		if (!eventPushedMap.exists(event.event))
@@ -1823,7 +1814,6 @@ class PlayState extends MusicBeatState
 			return returnedValue;
 		}
 
-		
 		return 0;
 	}
 
@@ -1905,8 +1895,6 @@ class PlayState extends MusicBeatState
 			if (songSpeedTween != null)
 				songSpeedTween.active = false;
 
-
-
 			var chars:Array<Character> = [boyfriend, gf, dad];
 			for (char in chars)
 			{
@@ -1944,8 +1932,6 @@ class PlayState extends MusicBeatState
 				finishTimer.active = true;
 			if (songSpeedTween != null)
 				songSpeedTween.active = true;
-
-
 
 			var chars:Array<Character> = [boyfriend, gf, dad];
 			for (char in chars)
@@ -2054,7 +2040,6 @@ class PlayState extends MusicBeatState
 			iconP1.swapOldIcon();
 	}*/
 		callOnLuas('onUpdate', [elapsed]);
-
 
 		if (!inCutscene)
 		{
@@ -2523,8 +2508,6 @@ class PlayState extends MusicBeatState
 	{
 		switch (eventName)
 		{
-		
-
 			case 'Hey!':
 				var value:Int = 2;
 				switch (value1.toLowerCase().trim())
@@ -2553,7 +2536,6 @@ class PlayState extends MusicBeatState
 						gf.specialAnim = true;
 						gf.heyTimer = time;
 					}
-
 				}
 				if (value != 1)
 				{
@@ -2568,7 +2550,6 @@ class PlayState extends MusicBeatState
 					value = 1;
 				gfSpeed = value;
 
-
 			case 'Add Camera Zoom':
 				if (ClientPrefs.camZooms && FlxG.camera.zoom < 1.35)
 				{
@@ -2582,7 +2563,6 @@ class PlayState extends MusicBeatState
 					FlxG.camera.zoom += camZoom;
 					camHUD.zoom += hudZoom;
 				}
-
 
 			case 'Play Animation':
 				// trace('Anim to play: ' + value1);
@@ -2754,8 +2734,6 @@ class PlayState extends MusicBeatState
 						}
 				}
 				reloadHealthBarColors();
-
-	
 
 			case 'Change Scroll Speed':
 				if (songSpeedType == "constant")
@@ -2982,7 +2960,9 @@ class PlayState extends MusicBeatState
 				return;
 			}
 
-			if (isStoryMode)
+			if (SONG.song.toLowerCase() == "crumb-edition-v2")
+				MusicBeatState.switchState(new TitleState());
+			else if (isStoryMode)
 			{
 				campaignScore += songScore;
 				campaignMisses += songMisses;
@@ -3068,6 +3048,7 @@ class PlayState extends MusicBeatState
 				{
 					CustomFadeTransition.nextCamera = null;
 				}
+
 				MusicBeatState.switchState(new FreeplayState());
 				FlxG.sound.playMusic(Paths.music('freakyMenu'));
 				changedDifficulty = false;
@@ -3943,10 +3924,6 @@ class PlayState extends MusicBeatState
 			dad.dance();
 		}
 
-	
-		
-
-	
 		lastBeatHit = curBeat;
 
 		setOnLuas('curBeat', curBeat); // DAWGG?????

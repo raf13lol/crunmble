@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilscarybg.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ben0000" x="675" y="15" width="168" height="168" pivotX="0" pivotY="0"/>
+	<SubTexture name="evilscare0000" x="866" y="191" width="109" height="145" pivotX="0" pivotY="0"/>
+	<SubTexture name="garten0000" x="488" y="15" width="172" height="172" pivotX="0" pivotY="0"/>
+	<SubTexture name="granny0000" x="488" y="202" width="150" height="150" pivotX="0" pivotY="0"/>
+	<SubTexture name="jeff0000" x="236" y="203" width="191" height="119" pivotX="0" pivotY="0"/>
+	<SubTexture name="mouse0000" x="15" y="15" width="206" height="201" pivotX="0" pivotY="0"/>
+	<SubTexture name="piggy0000" x="236" y="15" width="237" height="173" pivotX="0" pivotY="0"/>
+	<SubTexture name="smiledog0000" x="675" y="198" width="176" height="154" pivotX="0" pivotY="0"/>
+	<SubTexture name="sonicexe0000" x="858" y="15" width="151" height="161" pivotX="0" pivotY="0"/>
+</TextureAtlas>

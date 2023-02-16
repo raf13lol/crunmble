@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				32
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				28
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				31
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mysingingBF",
+	"position": [
+		-300,
+		260
+	],
+	"healthicon": "icon-MSb",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		260,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

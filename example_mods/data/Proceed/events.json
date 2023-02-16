@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				81951.2195121951,
+				[
+					[
+						"Flash",
+						"0.25",
+						"1"
+					],
+					[
+						"Change Character",
+						"gf",
+						"trash"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Boyfend"
+					]
+				]
+			],
+			[
+				118536.585365853,
+				[
+					[
+						"Change Character",
+						"bf",
+						"trash"
+					],
+					[
+						"Change Character",
+						"gf",
+						"disc-gf-empty"
+					],
+					[
+						"Flash",
+						"0.25",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

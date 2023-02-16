@@ -1,8 +1,6 @@
 function onBeatHit()
 	songPos = getSongPosition()
 	local currentBeat = math.floor((songPos/1000)*(bpm/60))
-	setProperty('timeBar.color', getColorFromHex('880015'))
-    setProperty('timeBarBG.color', getColorFromHex('880015'))
 	setProperty('timeTxt.color', getColorFromHex('FF0000'))
 	setProperty('scoreTxt.color', getColorFromHex('FF0000'))
 	setProperty('judgementCounterTxt.color', getColorFromHex('FF0000'))

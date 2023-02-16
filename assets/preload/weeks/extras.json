@@ -13,57 +13,12 @@
 	"hideStoryMode": true,
 	"songs": [
 		[
-			"Goober Old",
-			"gooblin",
-			[
-				255,
-				242,
-				0
-			]
-		],
-		[
-			"Goober",
-			"gooblin",
-			[
-				255,
-				242,
-				0
-			]
-		],
-		[
-			"Goober Twoober",
-			"gooblin",
-			[
-				255,
-				242,
-				0
-			]
-		],
-		[
-			"Goober Minusoober",
-			"bunkly",
-			[
-				255,
-				173,
-				213
-			]
-		],
-		[
 			"Warcrimes",
 			"mozzarella",
 			[
-				175,
+				195,
 				0,
 				0
-			]
-		],
-		[
-			"Multicolor",
-			"magenta",
-			[
-				195,
-				73,
-				253
 			]
 		],
 		[
@@ -72,34 +27,16 @@
 			[
 				0,
 				193,
-				53
-			]
-		],
-		[
-			"Mauve",
-			"scrumbly",
-			[
-				246,
-				73,
-				253
+				0
 			]
 		],
 		[
 			"Cheddarjack",
 			"mozz",
 			[
-				106,
+				66,
 				0,
 				0
-			]
-		],
-		[
-			"Baited",
-			"chrumb",
-			[
-				181,
-				230,
-				29
 			]
 		],
 		[
@@ -107,16 +44,25 @@
 			"crumbkill",
 			[
 				255,
-				33,
+				53,
+				93
+			]
+		],
+		[
+			"Baited",
+			"chrumb",
+			[
+				66,
+				235,
 				73
 			]
 		],
 		[
 			"Ballin",
-			"ueueueue",
+			"UEUEUEUE",
 			[
 				0,
-				193,
+				115,
 				0
 			]
 		],
@@ -130,21 +76,102 @@
 			]
 		],
 		[
+			"Multicolor",
+			"Magentahd",
+			[
+				206,
+				93,
+				253
+			]
+		],
+		[
+			"Beta",
+			"betacrumb",
+			[
+				0,
+				153,
+				0
+			]
+		],
+		[
+			"Bittrip",
+			"bittrip",
+			[
+				255,
+				255,
+				135
+			]
+		],
+		[
+			"Contained",
+			"crumbmp",
+			[
+				0,
+				53,
+				0
+			]
+		],
+		[
 			"Terror",
 			"gangong",
 			[
-				185,
-				122,
-				87
+				0,
+				0,
+				0
 			]
 		],
 		[
 			"Schizophrenia",
 			"minibeef",
 			[
+				80,
+				80,
+				255
+			]
+		],
+		[
+			"Mauve",
+			"scrumbly",
+			[
+				255,
 				0,
-				162,
-				232
+				255
+			]
+		],
+		[
+			"Goober",
+			"gooblin",
+			[
+				235,
+				235,
+				0
+			]
+		],
+		[
+			"Gooblin",
+			"gooblin",
+			[
+				235,
+				235,
+				0
+			]
+		],
+		[
+			"goober Twoober",
+			"gooblin",
+			[
+				235,
+				235,
+				0
+			]
+		],
+		[
+			"Goober Minusoober",
+			"bunkly",
+			[
+				255,
+				173,
+				213
 			]
 		],
 		[
@@ -160,9 +187,54 @@
 			"Boof",
 			"high",
 			[
-				186,
-				186,
+				255,
+				255,
 				0
+			]
+		],
+		[
+			"Skittles",
+			"skitttles",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Proceed",
+			"m",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"Ikea",
+			"ikea",
+			[
+				0,
+				0,
+				113
+			]
+		],
+		[
+			"Hoaxer",
+			"black",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Ourbling",
+			"ourp",
+			[
+				255,
+				113,
+				255
 			]
 		]
 	],

@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				76,
 				91
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 17,
-			"name": "Scrum_bly idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Scrum_bly idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				79,
 				92
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 17,
-			"name": "Scrum_bly down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Scrum_bly down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				79,
 				90
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 20,
-			"name": "Scrum_bly up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scrum_bly up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				87,
 				91
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Scrum_bly right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Scrum_bly right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				153,
 				92
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 17,
-			"name": "Scrum_bly left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Scrum_bly left"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Scrum_bly",
 	"position": [
 		0,

@@ -1,0 +1,50 @@
+{
+	"storyName": "back to the start lmao",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "beta",
+	"weekBefore": "week1crumb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Beta",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Generation2",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Diminutive",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Crumbmas"
+}

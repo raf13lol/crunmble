@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				-135,
+				510
+			],
 			"loop": true,
-			"offsets": [
-				-135,
-				510
-			],
-			"anim": "idle",
 			"fps": 19,
-			"name": "Angy_Weel idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Angy_Weel idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-135,
 				510
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Angy_Weel left",
-			"indices": []
+			"indices": [],
+			"name": "Angy_Weel left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-135,
 				510
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Angy_Weel down",
-			"indices": []
+			"indices": [],
+			"name": "Angy_Weel down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-135,
 				510
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Angy_Weel up",
-			"indices": []
+			"indices": [],
+			"name": "Angy_Weel up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-135,
 				510
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Angy_Weel right",
-			"indices": []
+			"indices": [],
+			"name": "Angy_Weel right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-135,
 				510
 			],
-			"anim": "Wtf",
+			"loop": false,
 			"fps": 15,
-			"name": "Angy_Weel wtf",
-			"indices": []
+			"anim": "Wtf",
+			"indices": [],
+			"name": "Angy_Weel wtf"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Angy_Weel",
 	"position": [
 		-140,

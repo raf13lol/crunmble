@@ -1,117 +1,117 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				956,
+				431
+			],
 			"loop": true,
-			"offsets": [
-				956,
-				431
-			],
+			"fps": 17,
 			"anim": "idle",
-			"fps": 17,
-			"name": "Crumb_Gun idle",
-			"indices": []
+			"indices": [],
+			"name": "Crumb_Gun idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				956,
 				431
 			],
+			"loop": false,
+			"fps": 17,
 			"anim": "singDOWN",
-			"fps": 17,
-			"name": "Crumb_Gun down",
-			"indices": []
+			"indices": [],
+			"name": "Crumb_Gun down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				956,
 				431
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 20,
-			"name": "Crumb_Gun up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Crumb_Gun up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				955,
 				427
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Crumb_Gun right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Crumb_Gun right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				956,
 				430
 			],
-			"anim": "attack",
+			"loop": false,
 			"fps": 24,
-			"name": "Crumb_Gun pew",
-			"indices": []
+			"anim": "attack",
+			"indices": [],
+			"name": "Crumb_Gun pew"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				940,
 				500
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 17,
-			"name": "Crumb_Gun circ",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Crumb_Gun circ"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				940,
 				430
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 17,
-			"name": "Crumb_Gun cumb",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Crumb_Gun cumb"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				940,
 				512
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 17,
-			"name": "Crumb_Gun guh",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Crumb_Gun guh"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				957,
 				432
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 17,
-			"name": "Crumb_Gun left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Crumb_Gun left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				980,
 				460
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 17,
-			"name": "Crumb_Gun ass",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Crumb_Gun ass"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Crumb_Gun",
 	"position": [
 		0,

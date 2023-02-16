@@ -1,0 +1,7 @@
+Make a black screen appear. 
+
+Value 1 is either true or false.
+True = Show
+False or anything else = Hide
+
+Value 2 does nothing

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Black_Imposter.png"><SubTexture name="Black_Imposter idle0000" x="1853" y="2061" width="1124" height="965" frameX="-393" frameY="-359" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter idle0001" x="0" y="2061" width="1119" height="970" frameX="-408" frameY="-353" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter idle0002" x="819" y="0" width="1046" height="1058" frameX="-426" frameY="-351" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter idle0003" x="0" y="1080" width="925" height="981" frameX="-438" frameY="-334" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter idle0004" x="3885" y="3031" width="866" height="948" frameX="-440" frameY="-337" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter idle0005" x="4949" y="942" width="1119" height="939" frameX="-394" frameY="-356" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter idle0006" x="2520" y="3989" width="1142" height="948" frameX="-394" frameY="-363" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0000" x="0" y="3989" width="1363" height="952" frameX="-249" frameY="-328" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0001" x="0" y="3031" width="1415" height="958" frameX="-225" frameY="-356" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0002" x="3597" y="1920" width="1340" height="958" frameX="-210" frameY="-396" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0003" x="3597" y="0" width="1352" height="960" frameX="-209" frameY="-381" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0004" x="925" y="1080" width="1342" height="980" frameX="-221" frameY="-365" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0005" x="925" y="1080" width="1342" height="980" frameX="-221" frameY="-365" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0006" x="925" y="1080" width="1342" height="980" frameX="-221" frameY="-365" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0007" x="1415" y="3031" width="1289" height="957" frameX="-277" frameY="-363" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter left0008" x="2704" y="3031" width="1181" height="953" frameX="-351" frameY="-357" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0000" x="2849" y="0" width="748" height="973" frameX="-464" frameY="-434" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0001" x="3597" y="960" width="745" height="960" frameX="-451" frameY="-423" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0002" x="2849" y="973" width="734" height="966" frameX="-430" frameY="-380" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0003" x="2849" y="973" width="734" height="966" frameX="-430" frameY="-380" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0004" x="2849" y="973" width="734" height="966" frameX="-430" frameY="-380" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0005" x="2849" y="973" width="734" height="966" frameX="-430" frameY="-380" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0006" x="1119" y="2061" width="734" height="966" frameX="-430" frameY="-380" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0007" x="0" y="0" width="819" height="1080" frameX="-413" frameY="-369" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter down0008" x="1865" y="0" width="984" height="1024" frameX="-400" frameY="-368" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0000" x="1391" y="4941" width="1310" height="936" frameX="-224" frameY="-285" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0001" x="1363" y="3989" width="1157" height="951" frameX="-208" frameY="-271" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0002" x="4949" y="0" width="1136" height="942" frameX="-171" frameY="-280" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0003" x="3662" y="3989" width="1139" height="948" frameX="-187" frameY="-274" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0004" x="3920" y="4941" width="1373" height="933" frameX="-188" frameY="-289" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0005" x="6085" y="0" width="1141" height="933" frameX="-188" frameY="-289" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0006" x="0" y="5878" width="1150" height="933" frameX="-188" frameY="-289" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0007" x="1150" y="5878" width="1313" height="933" frameX="-188" frameY="-289" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0008" x="0" y="4941" width="1391" height="937" frameX="-231" frameY="-285" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter up0009" x="2701" y="4941" width="1219" height="934" frameX="-318" frameY="-311" frameWidth="1643" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0000" x="7226" y="0" width="1473" height="872" frameX="-487" frameY="-349" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0001" x="3665" y="5878" width="1497" height="885" frameX="-512" frameY="-336" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0002" x="5162" y="5878" width="1479" height="875" frameX="-537" frameY="-346" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0003" x="7226" y="872" width="1306" height="871" frameX="-536" frameY="-350" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0004" x="7226" y="2614" width="1363" height="864" frameX="-501" frameY="-357" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0005" x="7226" y="2614" width="1363" height="864" frameX="-501" frameY="-357" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0006" x="7226" y="2614" width="1363" height="864" frameX="-501" frameY="-357" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0007" x="7226" y="1743" width="1325" height="871" frameX="-494" frameY="-350" frameWidth="2016" frameHeight="1463" />
+<SubTexture name="Black_Imposter right0008" x="2463" y="5878" width="1202" height="931" frameX="-543" frameY="-349" frameWidth="2016" frameHeight="1463" />
+</TextureAtlas>

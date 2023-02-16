@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="retrotrip.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trippidle0000" x="25" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0001" x="25" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0002" x="211" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0003" x="211" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0004" x="397" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0005" x="397" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0006" x="583" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0007" x="583" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0008" x="769" y="25" width="161" height="194"/>
+	<SubTexture name="trippidle0009" x="769" y="25" width="161" height="194"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mikrofone.png"><SubTexture name="Mikrofone idle0000" x="304" y="139" width="100" height="138" frameX="-751" frameY="-997" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone idle0001" x="0" y="149" width="101" height="143" frameX="-751" frameY="-993" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone idle0002" x="102" y="0" width="101" height="148" frameX="-750" frameY="-988" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone idle0003" x="409" y="292" width="101" height="131" frameX="-749" frameY="-1005" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone idle0004" x="407" y="138" width="101" height="137" frameX="-750" frameY="-999" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone left0000" x="0" y="292" width="102" height="137" frameX="-736" frameY="-999" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone left0001" x="101" y="149" width="104" height="140" frameX="-731" frameY="-996" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone left0002" x="407" y="0" width="103" height="138" frameX="-736" frameY="-998" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone down0000" x="510" y="126" width="102" height="120" frameX="-750" frameY="-1015" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone down0001" x="510" y="246" width="103" height="116" frameX="-749" frameY="-1020" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone down0002" x="510" y="0" width="103" height="126" frameX="-748" frameY="-1009" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone up0000" x="203" y="0" width="101" height="144" frameX="-747" frameY="-992" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone up0001" x="0" y="0" width="102" height="149" frameX="-745" frameY="-987" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone up0002" x="102" y="292" width="103" height="137" frameX="-745" frameY="-998" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone right0000" x="307" y="292" width="102" height="136" frameX="-761" frameY="-1000" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone right0001" x="205" y="292" width="102" height="137" frameX="-764" frameY="-999" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Mikrofone right0002" x="304" y="0" width="103" height="139" frameX="-754" frameY="-997" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

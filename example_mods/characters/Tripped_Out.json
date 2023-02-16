@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				523,
+				490
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tripped_Out idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				525,
+				490
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tripped_Out idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				523,
+				488
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tripped_Out idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				523,
+				492
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tripped_Out idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				521,
+				490
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tripped_Out idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Tripped_Out",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "trip",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		28,
+		36
+	],
+	"camera_position": [
+		-140,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

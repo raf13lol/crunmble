@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-210,
+				176
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Grape_forward idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				192
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Grape_forward left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Grape_forward down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				228
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Grape_forward up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-245,
+				160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Grape_forward right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Grape_forward",
+	"position": [
+		-160,
+		350
+	],
+	"healthicon": "grape",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		73,
+		164
+	],
+	"camera_position": [
+		10,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999998
+}

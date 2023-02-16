@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				336,
 				701
 			],
-			"indices": [],
-			"fps": 15,
 			"anim": "idle",
-			"loop": true,
-			"name": "curds idle"
+			"fps": 15,
+			"name": "curds idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				337,
 				702
 			],
-			"indices": [],
-			"fps": 17,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "curds down"
+			"fps": 17,
+			"name": "curds down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				337,
 				701
 			],
-			"indices": [],
-			"fps": 17,
 			"anim": "singUP",
-			"loop": false,
-			"name": "curds up"
+			"fps": 17,
+			"name": "curds up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				338,
 				702
 			],
-			"indices": [],
-			"fps": 17,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "curds right"
+			"fps": 17,
+			"name": "curds right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				335,
 				701
 			],
-			"indices": [],
-			"fps": 17,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "curds left"
+			"fps": 17,
+			"name": "curds left",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/curds",
 	"position": [
 		0,

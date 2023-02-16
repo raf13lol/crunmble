@@ -1,117 +1,117 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				966,
 				600
 			],
-			"loop": true,
-			"fps": 18,
 			"anim": "idle",
-			"indices": [],
-			"name": "Beef_assets idle"
+			"fps": 18,
+			"name": "Beef_assets idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				964,
 				601
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Beef_assets down"
+			"fps": 13,
+			"name": "Beef_assets down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				965,
 				600
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Beef_assets up"
+			"fps": 13,
+			"name": "Beef_assets up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				967,
 				600
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Beef_assets right"
+			"fps": 13,
+			"name": "Beef_assets right",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				969,
 				601
 			],
-			"loop": true,
-			"fps": 18,
 			"anim": "what",
-			"indices": [],
-			"name": "Beef_assets GUH"
+			"fps": 18,
+			"name": "Beef_assets GUH",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				964,
 				600
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Beef_assets left"
+			"fps": 13,
+			"name": "Beef_assets left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1246,
 				598
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "Beef_assets th"
+			"fps": 13,
+			"name": "Beef_assets th",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1251,
 				600
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Beef_assets a"
+			"fps": 13,
+			"name": "Beef_assets a",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1245,
 				600
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "Beef_assets f"
+			"fps": 13,
+			"name": "Beef_assets f",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1248,
 				602
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Beef_assets wh"
+			"fps": 13,
+			"name": "Beef_assets wh",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Beef_assets",
 	"position": [
 		0,

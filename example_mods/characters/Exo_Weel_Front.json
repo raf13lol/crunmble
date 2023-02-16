@@ -59,7 +59,7 @@
 	"no_antialiasing": false,
 	"image": "characters/Exo_Weel_Front",
 	"position": [
-		0,
+		10,
 		350
 	],
 	"healthicon": "exoweel",
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		10,
-		-120
+		40,
+		-60
 	],
 	"sing_duration": 4,
-	"scale": 0.599999999999998
+	"scale": 0.399999999999998
 }

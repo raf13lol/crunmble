@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-92,
 				-304
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-113,
 				-308
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 24,
+			"name": "up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-108,
 				-312
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 20,
+			"name": "left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-116,
 				-310
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 20,
+			"name": "down",
+			"indices": []
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-97,
 				-310
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/crumbkill",
 	"position": [
 		0,

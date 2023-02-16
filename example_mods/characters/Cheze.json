@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-475,
-				210
-			],
 			"loop": true,
-			"fps": 19,
-			"anim": "idle",
-			"indices": [],
-			"name": "Cheze idle"
-		},
-		{
 			"offsets": [
 				-475,
 				210
 			],
-			"loop": false,
-			"fps": 14,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Cheze left"
+			"anim": "idle",
+			"fps": 19,
+			"name": "Cheze idle",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-475,
+				210
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Cheze left",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				-474,
 				209
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Cheze down"
+			"fps": 24,
+			"name": "Cheze down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-470,
 				206
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Cheze up"
+			"fps": 24,
+			"name": "Cheze up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-484,
 				210
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Cheze right"
+			"fps": 24,
+			"name": "Cheze right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-478,
 				210
 			],
-			"loop": false,
-			"fps": 19,
 			"anim": "funny",
-			"indices": [],
-			"name": "Cheze oh fuck"
+			"fps": 19,
+			"name": "Cheze oh fuck",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Cheze",
 	"position": [
 		0,

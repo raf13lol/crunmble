@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				615,
+				350
+			],
 			"loop": true,
-			"offsets": [
-				615,
-				350
-			],
-			"anim": "idle",
 			"fps": 19,
-			"name": "Weel idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Weel idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				615,
 				350
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Weel left",
-			"indices": []
+			"indices": [],
+			"name": "Weel left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				615,
 				350
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Weel down",
-			"indices": []
+			"indices": [],
+			"name": "Weel down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				615,
 				350
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Weel up",
-			"indices": []
+			"indices": [],
+			"name": "Weel up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				615,
 				350
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Weel right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Weel right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Weel",
 	"position": [
 		0,

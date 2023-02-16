@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				405,
+				480
+			],
 			"loop": true,
-			"offsets": [
-				405,
-				480
-			],
+			"fps": 15,
 			"anim": "idle",
-			"fps": 15,
-			"name": "Exo_Weel idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				405,
-				480
-			],
-			"anim": "singLEFT",
-			"fps": 15,
-			"name": "Exo_Weel left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				405,
-				480
-			],
-			"anim": "singDOWN",
-			"fps": 15,
-			"name": "Exo_Weel down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				405,
-				480
-			],
-			"anim": "singUP",
-			"fps": 15,
-			"name": "Exo_Weel up",
-			"indices": []
-		},
-		{
-			"offsets": [
-				405,
-				480
-			],
-			"loop": false,
-			"fps": 15,
-			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Exo_Weel right"
+			"name": "Exo_Weel idle"
+		},
+		{
+			"offsets": [
+				405,
+				480
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Exo_Weel left"
+		},
+		{
+			"offsets": [
+				405,
+				480
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Exo_Weel down"
+		},
+		{
+			"offsets": [
+				405,
+				480
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Exo_Weel up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				405,
+				480
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "Exo_Weel right",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Exo_Weel",
 	"position": [
 		0,

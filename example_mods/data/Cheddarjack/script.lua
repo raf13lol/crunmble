@@ -54,9 +54,7 @@ function onCreatePost()
 end
 
 function onUpdate()
-    
-    setProperty('timeBar.color', getColorFromHex('FFFFFF'))
-    setProperty('timeBarBG.color', getColorFromHex('FFFFFF'))
+
   noteTweenAlpha('itsnothere',0, 0, 0.001, 'sineOut')
   noteTweenAlpha('itsnothere1',1, 0, 0.001, 'sineOut')
   noteTweenAlpha('itsnothere2',2, 0, 0.001, 'sineOut')

@@ -1,0 +1,68 @@
+{
+	"storyName": "he's going crazy",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "crumb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"crumb",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Crumbtasm",
+			"icon-Scrumbly",
+			[
+				194,
+				117,
+				196
+			]
+		],
+		[
+			"Ambulant-Skill-Issue",
+			"skillweel",
+			[
+				0,
+				0,
+				193
+			]
+		],
+		[
+			"Tripped-Skill-Issue",
+			"trip",
+			[
+				255,
+				40,
+				53
+			]
+		],
+		[
+			"Cheesefries-Skill-Issue",
+			"skillcheese",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Granule-Skill-Issue",
+			"Skillcrumb",
+			[
+				33,
+				33,
+				33
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "crumb",
+	"hiddenUntilUnlocked": false
+}

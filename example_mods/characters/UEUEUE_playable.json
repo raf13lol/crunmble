@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				130,
 				501
 			],
-			"loop": false,
-			"fps": 18,
 			"anim": "idle",
-			"indices": [],
-			"name": "UEUEUE idle"
+			"fps": 18,
+			"name": "UEUEUE idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				130,
 				501
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "UEUEUE down"
+			"fps": 13,
+			"name": "UEUEUE down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				131,
 				501
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singUP",
-			"indices": [],
-			"name": "UEUEUE up"
+			"fps": 13,
+			"name": "UEUEUE up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				129,
 				500
 			],
-			"indices": [],
-			"fps": 13,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "UEUEUE aaa"
+			"fps": 13,
+			"name": "UEUEUE aaa",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				129,
 				500
 			],
-			"indices": [],
-			"fps": 13,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "UEUEUE left"
+			"fps": 13,
+			"name": "UEUEUE left",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/UEUEUE",
 	"position": [
 		0,

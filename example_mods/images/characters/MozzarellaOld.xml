@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MozzarellaOld.png"><SubTexture name="Mozzarella idle0000" x="591" y="238" width="118" height="236" frameX="-172" frameY="-200" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella idle0001" x="779" y="0" width="305" height="217" frameX="-63" frameY="-270" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella idle0002" x="779" y="429" width="282" height="209" frameX="-82" frameY="-275" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella idle0003" x="0" y="767" width="252" height="209" frameX="-104" frameY="-266" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella idle0004" x="338" y="538" width="216" height="220" frameX="-128" frameY="-243" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella idle0005" x="177" y="538" width="161" height="221" frameX="-150" frameY="-226" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella idle0006" x="405" y="287" width="129" height="234" frameX="-169" frameY="-207" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella left0000" x="0" y="287" width="204" height="251" frameX="-80" frameY="-171" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella left0001" x="204" y="287" width="201" height="245" frameX="-78" frameY="-168" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella left0002" x="591" y="0" width="188" height="238" frameX="-78" frameY="-164" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella left0003" x="0" y="538" width="177" height="229" frameX="-86" frameY="-177" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella down0000" x="0" y="976" width="219" height="185" frameX="-137" frameY="-254" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella down0001" x="252" y="767" width="222" height="208" frameX="-139" frameY="-247" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella down0002" x="554" y="538" width="212" height="218" frameX="-143" frameY="-249" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella down0003" x="1084" y="0" width="211" height="189" frameX="-140" frameY="-247" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella right0000" x="779" y="217" width="287" height="212" frameX="-128" frameY="-219" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella right0001" x="698" y="767" width="277" height="194" frameX="-135" frameY="-235" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella right0002" x="219" y="976" width="261" height="181" frameX="-143" frameY="-241" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella right0003" x="474" y="767" width="224" height="198" frameX="-149" frameY="-219" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella up0000" x="143" y="0" width="138" height="284" frameX="-150" frameY="-165" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella up0001" x="0" y="0" width="143" height="287" frameX="-146" frameY="-166" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella up0002" x="281" y="0" width="165" height="282" frameX="-138" frameY="-176" frameWidth="654" frameHeight="708" />
+<SubTexture name="Mozzarella up0003" x="446" y="0" width="145" height="256" frameX="-153" frameY="-193" frameWidth="654" frameHeight="708" />
+</TextureAtlas>

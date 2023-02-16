@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				82285.7142857143,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gooblinbackground"
+					]
+				]
+			]
+		]
+	}
+}

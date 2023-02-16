@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				35,
 				140
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 19,
-			"name": "MAGENTA idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "MAGENTA idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				30,
 				140
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "MAGENTA left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MAGENTA left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				35,
 				136
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "MAGENTA down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MAGENTA down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				35,
 				139
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "MAGENTA up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAGENTA up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				35,
 				140
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "MAGENTA right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MAGENTA right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				310
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "MAGENTA MAGENTA"
+			"fps": 20,
+			"name": "MAGENTA MAGENTA",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/MAGENTA",
 	"position": [
 		0,

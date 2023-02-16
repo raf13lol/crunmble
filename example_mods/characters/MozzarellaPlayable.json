@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				420,
 				400
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 19,
-			"name": "Mozzarella idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Mozzarella idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				400,
 				352
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Mozzarella right"
+			"fps": 14,
+			"name": "Mozzarella right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				436,
 				368
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Mozzarella up"
+			"fps": 14,
+			"name": "Mozzarella up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				438,
 				380
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Mozzarella left"
+			"fps": 14,
+			"name": "Mozzarella left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				430,
 				321
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Mozzarella down"
+			"fps": 14,
+			"name": "Mozzarella down",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				420,
 				400
 			],
-			"loop": true,
-			"fps": 19,
 			"anim": "SCREAM",
-			"indices": [],
-			"name": "Mozzarella aah"
+			"fps": 19,
+			"name": "Mozzarella aah",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/mozzarella",
 	"position": [
 		0,

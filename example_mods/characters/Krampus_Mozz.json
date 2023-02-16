@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				420,
+				400
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Krampus_Mozz idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				426,
+				428
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Krampus_Mozz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				491,
+				342
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Krampus_Mozz right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				372
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Krampus_Mozz down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				428,
+				360
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Krampus_Mozz left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Krampus_Mozz",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-krampmoz",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		0,
+		21
+	],
+	"camera_position": [
+		-490,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

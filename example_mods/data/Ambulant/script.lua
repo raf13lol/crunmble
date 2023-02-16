@@ -22,8 +22,3 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		startDialogue('dialogue', 'Ambulant');
 	end
 end
-
-function onUpdate()
-	setProperty('timeBar.color', getColorFromHex('00a2e8'))
-    setProperty('timeBarBG.color', getColorFromHex('00a2e8'))
-end

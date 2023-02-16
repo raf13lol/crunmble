@@ -11,6 +11,4 @@ end
 
 function onUpdate()
 	setProperty('iconP2.alpha',  0)
-	setProperty('timeBar.color', getColorFromHex('00a2e8'))
-    setProperty('timeBarBG.color', getColorFromHex('00a2e8'))
 end

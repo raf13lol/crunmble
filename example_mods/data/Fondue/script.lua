@@ -8,8 +8,3 @@ function onCountdownStarted()
 	setPropertyFromGroup('playerStrums', 2, 'x', 635);
 	setPropertyFromGroup('playerStrums', 3, 'x', 745);
 end
-
-function onUpdate()
-	setProperty('timeBar.color', getColorFromHex('28b44c'))
-    setProperty('timeBarBG.color', getColorFromHex('28b44c'))
-end

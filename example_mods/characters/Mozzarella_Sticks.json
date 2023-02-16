@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				350,
 				620
 			],
-			"loop": true,
-			"fps": 19,
 			"anim": "idle",
-			"indices": [],
-			"name": "Mozzerella_Sticks idle"
+			"fps": 19,
+			"name": "Mozzerella_Sticks idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				640,
 				550
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Mozzerella_Sticks down"
+			"fps": 14,
+			"name": "Mozzerella_Sticks down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				740,
 				562
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Mozzerella_Sticks right"
+			"fps": 14,
+			"name": "Mozzerella_Sticks right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				610,
 				490
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Mozzerella_Sticks up"
+			"fps": 14,
+			"name": "Mozzerella_Sticks up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				758,
 				610
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Mozzerella_Sticks left"
+			"fps": 24,
+			"name": "Mozzerella_Sticks left",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Mozzerella_Sticks",
 	"position": [
 		0,

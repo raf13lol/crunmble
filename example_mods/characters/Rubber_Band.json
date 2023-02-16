@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				336,
 				541
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Rubber idle"
+			"fps": 24,
+			"name": "Rubber idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				336,
 				542
 			],
-			"loop": false,
-			"fps": 17,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Rubber down"
+			"fps": 17,
+			"name": "Rubber down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				333,
 				541
 			],
-			"loop": false,
-			"fps": 17,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Rubber up"
+			"fps": 17,
+			"name": "Rubber up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				321,
 				544
 			],
-			"loop": false,
-			"fps": 17,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Rubber right"
+			"fps": 17,
+			"name": "Rubber right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				342,
 				542
 			],
-			"loop": false,
-			"fps": 17,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Rubber left"
+			"fps": 17,
+			"name": "Rubber left",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Rubber",
 	"position": [
 		0,

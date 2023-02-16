@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				130,
 				610
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 19,
-			"name": "Mozz_Front idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Mozz_Front idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				90,
 				402
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 14,
-			"name": "Mozz_Front right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mozz_Front right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				116,
 				648
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 14,
-			"name": "Mozz_Front up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mozz_Front up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				228,
 				380
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 14,
-			"name": "Mozz_Front left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mozz_Front left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				120,
 				511
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 14,
-			"name": "Mozz_Front down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mozz_Front down"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				115,
 				681
 			],
-			"anim": "SCREAM",
+			"loop": true,
 			"fps": 19,
-			"name": "Mozz_Front aah",
-			"indices": []
+			"anim": "SCREAM",
+			"indices": [],
+			"name": "Mozz_Front aah"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Mozz_Front",
 	"position": [
 		0,

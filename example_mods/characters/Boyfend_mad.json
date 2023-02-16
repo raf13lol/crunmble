@@ -1,106 +1,106 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				555,
 				600
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 15,
-			"name": "Boyfend_mad idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Boyfend_mad idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				554,
 				601
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend_mad down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boyfend_mad down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				555,
 				595
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend_mad up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boyfend_mad up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				551,
 				598
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend_mad right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boyfend_mad right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				557,
 				599
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 15,
-			"name": "Boyfend_mad left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boyfend_mad left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				553,
 				594
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend_mad miss_left",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Boyfend_mad miss_left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				556,
 				600
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend_mad miss_down",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Boyfend_mad miss_down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				554,
 				594
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend_mad miss_up",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Boyfend_mad miss_up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				556,
 				592
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Boyfend_mad miss_right",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Boyfend_mad miss_right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Boyfend_mad",
 	"position": [
 		0,

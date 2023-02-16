@@ -30,8 +30,3 @@ function onUpdate(elapsed)
 	  doTweenY(dadTweenY, 'dad', 50-50*math.sin((currentBeat*0.25)*math.pi),0.001)
 	end
   end
-
-  function onUpdate()
-	setProperty('timeBar.color', getColorFromHex('22b14c'))
-    setProperty('timeBarBG.color', getColorFromHex('22b14c'))
-end

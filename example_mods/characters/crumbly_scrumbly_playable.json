@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				135,
+				210
+			],
 			"loop": true,
-			"offsets": [
-				135,
-				210
-			],
-			"anim": "idle",
 			"fps": 19,
-			"name": "crumb idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "crumb idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				135,
 				210
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "crumb left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crumb left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				136,
 				210
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "crumb down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crumb down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				135,
 				220
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "crumb up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "crumb up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				135,
 				210
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "crumb right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crumb right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/crumb",
 	"position": [
 		0,

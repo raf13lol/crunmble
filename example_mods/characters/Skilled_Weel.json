@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				605,
+				470
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Skilled_Weel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				605,
+				470
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Skilled_Weel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				605,
+				470
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Skilled_Weel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				605,
+				470
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Skilled_Weel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				605,
+				470
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Skilled_Weel right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Skilled_Weel",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "skillweel",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		72,
+		204
+	],
+	"camera_position": [
+		-190,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				22,
 				590
 			],
-			"loop": true,
-			"fps": 19,
 			"anim": "idle",
-			"indices": [],
-			"name": "Monterey idle"
+			"fps": 19,
+			"name": "Monterey idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-30,
 				582
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Monterey right"
+			"fps": 14,
+			"name": "Monterey right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				18,
 				598
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Monterey up"
+			"fps": 14,
+			"name": "Monterey up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				38,
 				580
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Monterey left"
+			"fps": 14,
+			"name": "Monterey left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				20,
 				580
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Monterey down"
+			"fps": 14,
+			"name": "Monterey down",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Monterey",
 	"position": [
 		0,

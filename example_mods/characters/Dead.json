@@ -1,18 +1,18 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				480,
 				740
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Dead Dead"
+			"fps": 24,
+			"name": "Dead Dead",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Dead",
 	"position": [
 		0,

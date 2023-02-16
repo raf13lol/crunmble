@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				435,
-				540
-			],
 			"loop": true,
-			"fps": 19,
+			"offsets": [
+				435,
+				540
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "Crumbh idle"
+			"fps": 19,
+			"name": "Crumbh idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				435,
 				540
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Crumbh left"
+			"fps": 24,
+			"name": "Crumbh left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				435,
 				540
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Crumbh down"
+			"fps": 24,
+			"name": "Crumbh down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				434,
 				540
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Crumbh up"
+			"fps": 24,
+			"name": "Crumbh up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				435,
 				540
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Crumbh right"
+			"fps": 24,
+			"name": "Crumbh right",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Crumbh",
 	"position": [
 		0,

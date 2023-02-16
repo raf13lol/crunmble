@@ -1,0 +1,50 @@
+{
+	"storyName": "Its feburary idot",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "crumbmas",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3dairy",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"jingle balls",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mistletoe",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"deceitful",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Crumbmas",
+	"hiddenUntilUnlocked": false
+}

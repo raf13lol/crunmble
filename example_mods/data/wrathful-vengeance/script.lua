@@ -12,10 +12,6 @@ function onCreate()
 		setTextFont('warning', 'ComicSansMSBold.ttf')
  end
 
- function onUpdate()
-	setProperty('timeBar.color', getColorFromHex('ed1c24')) -- updates the timebar 
-    setProperty('timeBarBG.color', getColorFromHex('ed1c24'))
-end
 
 function onUpdatePost()
     setProperty('timeTxt.text', 'Good luck.. You little freaker deaker.') -- Changes the time text
@@ -34,12 +30,6 @@ function opponentNoteHit()
 end
 
 function onCreatePost()
-    makeLuaText('dis', "Wrathful Vengeance by Emperor Yami | Charted by ToxicFlame", 600, 350, 450) -- The text credits because TOXIC KEEPS CHARTING ON OSU!!!!!
-    doTweenAlpha('disbye','dis',0,10,'linear')
-    setTextSize('dis', 20)
-    setTextColor('dis', 'FFFFFF')
-    addLuaText('dis',true)
-	setTextFont('dis', 'ComicSansMSBold.ttf')
 	makeLuaText('off', "Ghost Tapping is off. Screw You!", 0, 4, screenHeight - 55)
 	setTextSize('off', 16)
 	setTextBorder('off', 1, '000000')

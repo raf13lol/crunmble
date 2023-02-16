@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crumbmas_Weel.png"><SubTexture name="Crumbmas_Weel idle0000" x="0" y="188" width="148" height="183" frameX="-639" frameY="-474" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel idle0001" x="444" y="371" width="148" height="175" frameX="-639" frameY="-482" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel idle0002" x="148" y="371" width="148" height="177" frameX="-639" frameY="-480" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel idle0003" x="444" y="0" width="148" height="181" frameX="-639" frameY="-476" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel idle0004" x="296" y="0" width="148" height="185" frameX="-639" frameY="-472" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel idle0005" x="0" y="188" width="148" height="183" frameX="-639" frameY="-474" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel left0000" x="444" y="181" width="148" height="181" frameX="-639" frameY="-476" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel left0001" x="0" y="371" width="148" height="180" frameX="-639" frameY="-477" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel down0000" x="592" y="0" width="148" height="175" frameX="-639" frameY="-482" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel down0001" x="296" y="371" width="148" height="176" frameX="-639" frameY="-481" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel up0000" x="0" y="0" width="148" height="188" frameX="-639" frameY="-469" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel up0001" x="148" y="0" width="148" height="186" frameX="-639" frameY="-471" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel right0000" x="296" y="188" width="148" height="182" frameX="-639" frameY="-475" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Crumbmas_Weel right0001" x="148" y="188" width="148" height="183" frameX="-639" frameY="-474" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

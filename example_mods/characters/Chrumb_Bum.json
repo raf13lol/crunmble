@@ -1,95 +1,95 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-384,
 				581
 			],
-			"loop": true,
-			"fps": 17,
 			"anim": "idle",
-			"indices": [],
-			"name": "Chrumb idle"
+			"fps": 17,
+			"name": "Chrumb idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-384,
 				576
 			],
-			"loop": false,
-			"fps": 17,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Chrumb down"
+			"fps": 17,
+			"name": "Chrumb down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-385,
 				581
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Chrumb up"
+			"fps": 20,
+			"name": "Chrumb up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-385,
 				577
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Chrumb right"
+			"fps": 24,
+			"name": "Chrumb right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-390,
 				580
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "dodge",
-			"indices": [],
-			"name": "Chrumb dodge"
+			"fps": 24,
+			"name": "Chrumb dodge",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-384,
 				582
 			],
-			"loop": false,
-			"fps": 17,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Chrumb left"
+			"fps": 17,
+			"name": "Chrumb left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-480,
-				546
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "idle-alt",
-			"indices": [],
-			"name": "Chrumb LOL"
-		},
-		{
 			"offsets": [
 				-480,
 				546
 			],
-			"indices": [],
+			"anim": "idle-alt",
 			"fps": 24,
-			"anim": "dead",
+			"name": "Chrumb LOL",
+			"indices": []
+		},
+		{
 			"loop": true,
-			"name": "Chrumb LOL"
+			"offsets": [
+				-480,
+				546
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "Chrumb LOL",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Chrumb",
 	"position": [
 		0,

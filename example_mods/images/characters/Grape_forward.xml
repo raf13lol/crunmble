@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Grape_forward.png"><SubTexture name="Grape_forward idle0000" x="1251" y="419" width="287" height="418" frameX="-460" frameY="-363" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward idle0001" x="931" y="426" width="296" height="410" frameX="-460" frameY="-369" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward idle0002" x="648" y="905" width="297" height="398" frameX="-460" frameY="-377" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward idle0003" x="945" y="905" width="295" height="394" frameX="-460" frameY="-379" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward idle0004" x="265" y="457" width="270" height="437" frameX="-459" frameY="-354" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward left0000" x="535" y="457" width="255" height="435" frameX="-469" frameY="-349" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward left0001" x="0" y="457" width="265" height="448" frameX="-465" frameY="-350" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward left0002" x="334" y="0" width="269" height="450" frameX="-467" frameY="-354" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward up0000" x="1251" y="0" width="343" height="419" frameX="-453" frameY="-371" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward up0001" x="603" y="0" width="328" height="449" frameX="-449" frameY="-357" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward up0002" x="0" y="0" width="334" height="457" frameX="-440" frameY="-354" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward down0000" x="1594" y="290" width="274" height="288" frameX="-460" frameY="-385" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward down0001" x="1594" y="0" width="278" height="290" frameX="-461" frameY="-394" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward down0002" x="1240" y="905" width="284" height="293" frameX="-461" frameY="-400" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward right0000" x="931" y="0" width="320" height="426" frameX="-473" frameY="-352" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward right0001" x="0" y="905" width="325" height="411" frameX="-461" frameY="-359" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Grape_forward right0002" x="325" y="905" width="323" height="400" frameX="-453" frameY="-363" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				185,
+				450
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Crumbmas_Crumb idle"
+		},
+		{
+			"offsets": [
+				194,
+				449
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Crumbmas_Crumb left"
+		},
+		{
+			"offsets": [
+				188,
+				456
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Crumbmas_Crumb up"
+		},
+		{
+			"offsets": [
+				187,
+				449
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Crumbmas_Crumb down"
+		},
+		{
+			"offsets": [
+				179,
+				446
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Crumbmas_Crumb right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Crumbmas_Crumb",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "crumbmas",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		170,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

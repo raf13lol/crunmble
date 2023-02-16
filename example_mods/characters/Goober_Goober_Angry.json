@@ -56,11 +56,11 @@
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/goober2angry",
 	"position": [
-		0,
-		0
+		270,
+		40
 	],
 	"healthicon": "gooblin",
 	"flip_x": false,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		90,
-		150
+		270
 	],
 	"sing_duration": 4,
-	"scale": 2.2
+	"scale": 1.8
 }

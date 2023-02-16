@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				376,
 				522
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Magenta_HD left"
+			"fps": 24,
+			"name": "Magenta_HD left",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				435,
 				530
 			],
-			"loop": true,
-			"fps": 15,
 			"anim": "idle",
-			"indices": [],
-			"name": "Magenta_HD idle"
+			"fps": 15,
+			"name": "Magenta_HD idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				418,
 				526
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Magenta_HD down"
+			"fps": 24,
+			"name": "Magenta_HD down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				435,
 				529
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Magenta_HD up"
+			"fps": 24,
+			"name": "Magenta_HD up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				460,
 				530
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Magenta_HD right"
+			"fps": 24,
+			"name": "Magenta_HD right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				420,
 				530
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "Yeah",
-			"indices": [],
-			"name": "Magenta_HD ya"
+			"fps": 20,
+			"name": "Magenta_HD ya",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Magenta_HD",
 	"position": [
 		0,

@@ -3,14 +3,18 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "dairy",
-	"weekBefore": "weekexo",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "week2exo",
 	"startUnlocked": false,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"crummy",
@@ -40,11 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

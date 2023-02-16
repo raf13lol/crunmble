@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				120000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Grape_Forward_Gasp"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"exocrumbfront"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Exo_Weel_Front"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Montfront"
+					]
+				]
+			],
+			[
+				195000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Exo_Weel_Front"
+					]
+				]
+			],
+			[
+				204000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Grape_forward_gasp"
+					]
+				]
+			]
+		]
+	}
+}

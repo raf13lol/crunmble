@@ -1,7 +1,7 @@
 {
 	"storyName": "Your New Week",
 	"difficulties": "",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
@@ -23,7 +23,7 @@
 		],
 		[
 			"Weel X Crumb Sipping Smal",
-			"trip",
+			"crumb",
 			[
 				34,
 				177,
@@ -55,6 +55,24 @@
 				182,
 				132,
 				80
+			]
+		],
+		[
+			"Gouda",
+			"Monetary",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"My Singing Cheese",
+			"MSC",
+			[
+				46,
+				253,
+				133
 			]
 		]
 	],

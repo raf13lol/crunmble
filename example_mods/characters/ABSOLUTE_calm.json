@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-97,
 				-300
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "P2 Idle"
+			"fps": 24,
+			"name": "P2 Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-102,
 				-303
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "P2 Right"
+			"fps": 24,
+			"name": "P2 Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-97,
 				-288
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "P2 Up"
+			"fps": 24,
+			"name": "P2 Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-81,
 				-300
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "P2 Left"
+			"fps": 20,
+			"name": "P2 Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-96,
 				-311
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "P2 Down"
+			"fps": 20,
+			"name": "P2 Down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

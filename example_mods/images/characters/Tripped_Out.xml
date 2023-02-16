@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tripped_Out.png"><SubTexture name="Tripped_Out idle0000" x="406" y="0" width="135" height="201" frameX="-773" frameY="-790" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Tripped_Out idle0001" x="135" y="0" width="135" height="203" frameX="-772" frameY="-788" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Tripped_Out idle0002" x="270" y="0" width="136" height="203" frameX="-772" frameY="-789" frameWidth="1523" frameHeight="1586" />
+<SubTexture name="Tripped_Out idle0003" x="0" y="0" width="135" height="206" frameX="-773" frameY="-786" frameWidth="1523" frameHeight="1586" />
+</TextureAtlas>

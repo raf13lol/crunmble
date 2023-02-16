@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crumbmas_Crumb.png"><SubTexture name="Crumbmas_Crumb up0000" x="0" y="0" width="153" height="266" frameX="-284" frameY="-782" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb up0001" x="153" y="0" width="153" height="261" frameX="-284" frameY="-787" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb up0002" x="306" y="0" width="144" height="256" frameX="-290" frameY="-792" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb right0000" x="720" y="0" width="168" height="172" frameX="-290" frameY="-864" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb right0001" x="526" y="482" width="161" height="177" frameX="-291" frameY="-857" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb right0002" x="0" y="482" width="148" height="192" frameX="-292" frameY="-842" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb idle0000" x="396" y="266" width="129" height="200" frameX="-295" frameY="-836" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb idle0001" x="266" y="266" width="130" height="201" frameX="-302" frameY="-835" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb idle0002" x="590" y="0" width="130" height="200" frameX="-301" frameY="-836" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb idle0003" x="590" y="200" width="128" height="199" frameX="-299" frameY="-836" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb left0000" x="450" y="0" width="140" height="218" frameX="-292" frameY="-826" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb left0001" x="0" y="266" width="135" height="216" frameX="-296" frameY="-826" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb left0002" x="135" y="266" width="131" height="216" frameX="-299" frameY="-825" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb down0000" x="400" y="482" width="126" height="185" frameX="-301" frameY="-851" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb down0001" x="274" y="482" width="126" height="187" frameX="-301" frameY="-849" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Crumbmas_Crumb down0002" x="148" y="482" width="126" height="192" frameX="-301" frameY="-844" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

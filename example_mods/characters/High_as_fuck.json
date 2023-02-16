@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				495,
 				550
 			],
-			"loop": true,
-			"fps": 19,
 			"anim": "idle",
-			"indices": [],
-			"name": "high idle"
+			"fps": 19,
+			"name": "high idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				515,
 				590
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "high left"
+			"fps": 24,
+			"name": "high left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				495,
 				570
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "high down"
+			"fps": 24,
+			"name": "high down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				524,
 				620
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "high up"
+			"fps": 24,
+			"name": "high up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				445,
 				600
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "high right"
+			"fps": 24,
+			"name": "high right",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/high",
 	"position": [
 		0,

@@ -24,17 +24,17 @@ end
 
 function onStepHit()
 
-	if curStep == 1196 then
+	if curStep == 1520 then
 		playSound('bfjump', 1)
 		doTweenY('boymove','boyfriend',100,0.3,'cubeIn')		
 		doTweenX('crash','Squikcarfront',100,0.3,'cubeIn')		
 	end
 
-	if curStep == 1199 then
+	if curStep == 1523 then
 		setProperty('blackcumvoid.alpha', 1)
 	end
 
-	if curStep == 1254 then
+	if curStep == 1797 then
 		doTweenAlpha('rip','ripbunkly',1,0.1,'cubeIn')
 	end
 

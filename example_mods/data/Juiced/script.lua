@@ -23,8 +23,3 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	end
 end
 
-
-function onUpdate()
-	setProperty('timeBar.color', getColorFromHex('a349a4'))
-    setProperty('timeBarBG.color', getColorFromHex('a349a4'))
-end

@@ -1,106 +1,106 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-162,
 				-314
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-73,
 				-318
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 24,
+			"name": "up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-118,
 				-322
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 20,
+			"name": "left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-96,
 				-310
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-97,
-				-310
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
+			"fps": 20,
+			"name": "down",
 			"indices": []
 		},
 		{
 			"offsets": [
+				-97,
+				-310
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
 				-185,
 				-298
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "miss_right"
+			"fps": 24,
+			"name": "miss_right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-99,
 				-302
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "miss_up"
+			"fps": 24,
+			"name": "miss_up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-141,
 				-307
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "miss_left"
+			"fps": 20,
+			"name": "miss_left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-120,
 				-290
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "miss_down"
+			"fps": 20,
+			"name": "miss_down",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/champdupbf",
 	"position": [
 		0,

@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				250,
 				142
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Red_Dude right"
+			"fps": 20,
+			"name": "Red_Dude right",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				263,
 				220
 			],
-			"loop": true,
-			"fps": 15,
 			"anim": "idle",
-			"indices": [],
-			"name": "Red_Dude idle"
+			"fps": 15,
+			"name": "Red_Dude idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				228,
 				311
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Red_Dude up"
+			"fps": 20,
+			"name": "Red_Dude up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				383,
 				200
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Red_Dude left"
+			"fps": 20,
+			"name": "Red_Dude left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				250,
 				111
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Red_Dude down"
+			"fps": 20,
+			"name": "Red_Dude down",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Red_Dude",
 	"position": [
 		100,

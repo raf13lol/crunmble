@@ -1,84 +1,84 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				420,
 				400
 			],
-			"loop": true,
-			"fps": 19,
 			"anim": "idle",
-			"indices": [],
-			"name": "Mozzy_Wozzy idle"
+			"fps": 19,
+			"name": "Mozzy_Wozzy idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				360,
 				382
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Mozzy_Wozzy right"
+			"fps": 14,
+			"name": "Mozzy_Wozzy right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				416,
 				478
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Mozzy_Wozzy up"
+			"fps": 14,
+			"name": "Mozzy_Wozzy up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				438,
 				430
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Mozzy_Wozzy left"
+			"fps": 14,
+			"name": "Mozzy_Wozzy left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				430,
 				321
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Mozzy_Wozzy down"
+			"fps": 14,
+			"name": "Mozzy_Wozzy down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				410,
-				400
-			],
 			"loop": true,
-			"fps": 19,
-			"anim": "SCREAM",
-			"indices": [],
-			"name": "Mozzy_Wozzy aah"
-		},
-		{
 			"offsets": [
 				410,
 				400
 			],
-			"indices": [],
+			"anim": "SCREAM",
 			"fps": 19,
-			"anim": "Grr",
+			"name": "Mozzy_Wozzy aah",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "Mozzy_Wozzy Grr"
+			"offsets": [
+				410,
+				400
+			],
+			"anim": "Grr",
+			"fps": 19,
+			"name": "Mozzy_Wozzy Grr",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Mozzy_Wozzy",
 	"position": [
 		0,
